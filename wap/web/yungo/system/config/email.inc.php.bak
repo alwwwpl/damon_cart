@@ -1,0 +1,11 @@
+			<?php 
+			return array (	
+				'stmp_host' => 'smtp.qq.com',	//stmp服务器
+				'user' => '3028086217@qq.com',//账号
+				'pass' => 'dfkj2015',		//密码
+				'big' => 'utf-8',				//发送编码
+				'from' => "3028086217@qq.com",//发件人
+				'fromName' => "一元幸运购",  		//发件人名
+				'nohtml' => "不支持HTML格式"  	//不支持HTML
+			);
+			?>

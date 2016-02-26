@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+    <id>MMOSolution Login to see price</id>
+    <version>2.4</version>
+    <vqmver>2.X</vqmver>
+    <author>MMOSolution.com</author>
+    
+    <file name="catalog/controller/product/product.php">
+        <operation info="replace false to login to price">
+            <search position="after"><![CDATA[$data['breadcrumbs'] = array();]]></search>
+            <add><![CDATA[
+                if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){
+                    $lg_lang = $this->config->get('mmos_loginseeprice_language');
+                    $login2seeprice = '<a style="color: '. $this->config->get('mmos_loginseeprice_color') .'" data-toggle="modal" href="#dialog-loginbox">'.$lg_lang[$this->config->get('config_language_id')].'</a>';
+                }
+            ]]></add>
+        </operation>       
+        <operation info="change text main product">
+            <search position="before"><![CDATA[$data['discounts'] = array();]]></search>
+            <add><![CDATA[
+			 if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){ 
+			 $data['price'] = $login2seeprice;
+			 $data['special'] = false;
+			 $data['tax'] = false;
+			 }
+			]]></add>
+        </operation>     
+		<operation info="change text discount">
+            <search position="replace"><![CDATA['price'    => $this->currency->format($this->tax->calculate($discount['price'], $product_info['tax_class_id'], $this->config->get('config_tax')))]]></search>
+            <add><![CDATA[
+			 'price'    => (!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ) ?  $login2seeprice :  $this->currency->format($this->tax->calculate($discount['price'], $product_info['tax_class_id'], $this->config->get('config_tax')))
+			]]></add>
+        </operation>  
+
+		<operation info="change option text discount">
+            <search position="before"><![CDATA[$product_option_value_data[] = array(]]></search>
+            <add><![CDATA[
+			if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){ 
+				 $price = $login2seeprice;
+				 $special = false;
+				 $tax = false;
+			 }
+			]]></add>
+        </operation>       
+                     
+	 <operation info="related products">
+            <search position="before"><![CDATA[$data['products'][] = array(]]></search>
+            <add><![CDATA[
+			if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){ 
+				$price = $login2seeprice;
+				$special = false;
+				 $tax = false;
+			 }
+			]]></add>
+        </operation>       
+                         
+    </file>
+    <file path="catalog/controller/product/" name="category.php,manufacturer.php,search.php,special.php">               
+        <operation info="change false">
+            <search position="before"><![CDATA[foreach ($results as $result) {]]></search>
+            <add><![CDATA[
+                if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){
+                    $lg_lang = $this->config->get('mmos_loginseeprice_language');
+                    $login2seeprice = '<a style="color: '. $this->config->get('mmos_loginseeprice_color') .'" data-toggle="modal" href="#dialog-loginbox">'.$lg_lang[$this->config->get('config_language_id')].'</a>';
+                }
+            ]]></add>
+        </operation>
+        <operation info="hiden special price">
+            <search position="before"><![CDATA[$data['products'][] = array(]]></search>
+            <add><![CDATA[
+			if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){ 
+			 $price = $login2seeprice;
+			 $special = false;
+			 $tax = false;
+			 }
+		
+            ]]></add>
+        </operation>        
+       
+    </file>
+	
+	
+    <file  name="catalog/controller/product/compare.php">                
+        <operation info="change false">
+            <search position="before"><![CDATA[foreach ($this->session->data['compare'] as $key => $product_id) {]]></search>
+            <add><![CDATA[
+                if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){
+                    $lg_lang = $this->config->get('mmos_loginseeprice_language');
+                    $login2seeprice = '<a style="color: '. $this->config->get('mmos_loginseeprice_color') .'" data-toggle="modal" href="#dialog-loginbox">'.$lg_lang[$this->config->get('config_language_id')].'</a>';
+                }
+            ]]></add>
+        </operation>
+        <operation info="hiden special price">
+            <search position="before"><![CDATA[$data['products'][$product_id] = array(]]></search>
+            <add><![CDATA[
+			if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){ 
+				 $price = $login2seeprice;
+				 $special = false;
+				 }      
+            ]]></add>
+        </operation>   
+    </file>
+    <file path="catalog/controller/module/" name="special.php,bestseller.php,latest.php,featured.php">
+        <operation info="hiden special price">
+            <search position="before"><![CDATA[$data['products'] = array();]]></search>
+            <add><![CDATA[
+			if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){
+                    $lg_lang = $this->config->get('mmos_loginseeprice_language');
+                    $login2seeprice = '<a style="color: '. $this->config->get('mmos_loginseeprice_color') .'" data-toggle="modal" href="#dialog-loginbox">'.$lg_lang[$this->config->get('config_language_id')].'</a>';
+                }
+            ]]></add>
+        </operation>       
+        <operation info="change false">
+            <search position="before"><![CDATA[$data['products'][] = array(]]></search>
+            <add><![CDATA[
+               if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){ 
+				 $price = $login2seeprice;
+				 $special = false;
+				 $tax = false;
+				 }     
+            ]]></add>
+        </operation>
+    </file> 
+
+
+    <file path="catalog/controller/module/" name="boss_featured.php,boss_filterproduct.php">
+        <operation info="hiden special price">
+            <search position="before"><![CDATA[$products = array();]]></search>
+            <add><![CDATA[
+            if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){
+                    $lg_lang = $this->config->get('mmos_loginseeprice_language');
+                    $login2seeprice = '<a style="color: '. $this->config->get('mmos_loginseeprice_color') .'" data-toggle="modal" href="#dialog-loginbox">'.$lg_lang[$this->config->get('config_language_id')].'</a>';
+                }
+            ]]></add>
+        </operation>       
+        <operation info="change false">
+            <search position="before"><![CDATA[$products[] = array(]]></search>
+            <add><![CDATA[
+               if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){ 
+                 $price = $login2seeprice;
+                 $special = false;
+                 $tax = false;
+                 }     
+            ]]></add>
+        </operation>
+    </file>   
+ 	
+	<file name="catalog/controller/checkout/cart.php">    
+        <operation info="change false">
+            <search position="after"><![CDATA[$json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total));]]></search>
+            <add><![CDATA[
+				if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){
+					$json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), '');
+				}	  
+            ]]></add>
+        </operation>
+    </file>
+	<file name="catalog/controller/common/cart.php">    
+        <operation info="change false">
+            <search position="after"><![CDATA[$data['text_items'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total));]]></search>
+            <add><![CDATA[
+			if(!$this->customer->isLogged() && $this->config->get('mmos_loginseeprice_status') == '1' ){
+				$data['text_items'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), '');
+			}
+		   ]]></add>
+        </operation>
+    </file>
+</modification>

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head><meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>{wc:$key}</title>
+<meta name="keywords" content="一元购,一元欢乐购,1元云购,挖宝网,1元挖宝,一元夺宝,一元众筹,云购全球,一块" />
+<meta name="description" content="" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0, minimal-ui">
+<meta name="apple-mobile-web-app-title" content="一元欢乐购">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="format-detection" content="telephone=no" />
+<meta content="app-id=518966501" name="apple-itunes-app" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no, maximum-scale=1.0" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="yes" name="apple-touch-fullscreen">
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<meta content="telephone=no" name="format-detection" />
+<link href="{G_TEMPLATES_CSS}/mobile/comm.css" rel="stylesheet" type="text/css" />
+<link href="{G_TEMPLATES_CSS}/mobile/goods.css" rel="stylesheet" type="text/css" />
+<script src="{G_TEMPLATES_JS}/mobile/jquery190.js" language="javascript" type="text/javascript">
+</script><script id="pageJS" data="{G_TEMPLATES_JS}/mobile/BuyRecord.js" language="javascript" type="text/javascript"></script>
+<link rel="stylesheet" href="{G_TEMPLATES_CSS}/mobile/top.css"></head>
+
+</head>
+
+<body>
+<div class="h5-1yyg-v1" id="loadingPicBlock">
+    
+<!-- 栏目页面顶部 -->
+
+
+<!-- 内页顶部 -->
+<header class="header">
+<div class="n-header-wrap">
+<div class="backbtn">
+<a href="javascript:;" onclick="history.go(-1)" class="h-count white">
+</a>
+</div>
+<div class="h-top-right ">
+<a href="{WEB_PATH}/mobile/home" class="h-search white"></a>
+</div>
+<div class="n-h-tit"><h1 class="header-logo">宝贝{wc:$key}</h1></div>
+</div>
+</header>
+
+
+<input name="hidCodeID" type="hidden" id="hidCodeID" value="18101" />
+<input name="hidIsEnd" type="hidden" id="hidIsEnd" value="1" />
+<style>
+#divRecordList img,#divRecordList embed{
+width:100% !important;
+height:auto !important;
+}
+#divRecordList{
+margin-top: 5px !important;
+margin-left: 5px !important;
+margin-right: 5px !important;
+border-left: none !important;
+}
+</style>
+<!-- PADDY qq320023815 商品详情页自动适应优化 -->
+    <section id="buyRecordPage" class="goodsCon">
+        <div id="divRecordList" class="recordCon z-minheight" style="display:block;">
+            {wc:$desc['content']}
+        </div>
+        
+    </section>
+  {wc:templates "mobile/index","footer"}
+  <script language="javascript" type="text/javascript">
+  var Path = new Object();
+  Path.Skin="{G_TEMPLATES_STYLE}";
+  Path.Webpath = "{WEB_PATH}";
+
+var Base={head:document.getElementsByTagName("head")[0]||document.documentElement,Myload:function(B,A){this.done=false;B.onload=B.onreadystatechange=function(){if(!this.done&&(!this.readyState||this.readyState==="loaded"||this.readyState==="complete")){this.done=true;A();B.onload=B.onreadystatechange=null;if(this.head&&B.parentNode){this.head.removeChild(B)}}}},getScript:function(A,C){var B=function(){};if(C!=undefined){B=C}var D=document.createElement("script");D.setAttribute("language","javascript");D.setAttribute("type","text/javascript");D.setAttribute("src",A);this.head.appendChild(D);this.Myload(D,B)},getStyle:function(A,B){var B=function(){};if(callBack!=undefined){B=callBack}var C=document.createElement("link");C.setAttribute("type","text/css");C.setAttribute("rel","stylesheet");C.setAttribute("href",A);this.head.appendChild(C);this.Myload(C,B)}}
+function GetVerNum(){var D=new Date();return D.getFullYear().toString().substring(2,4)+'.'+(D.getMonth()+1)+'.'+D.getDate()+'.'+D.getHours()+'.'+(D.getMinutes()<10?'0':D.getMinutes().toString().substring(0,1))}
+Base.getScript('{G_TEMPLATES_JS}/mobile/Bottom.js?v='+GetVerNum());
+</script>
+<a id="btnTop" href="javascript:;" class="z-top" style="display:none;"><b class="z-arrow"></b></a>
+<script>
+(function() {
+if (!$){
+return;
+}
+var bb = 80;
+var b = $("#btnTop");
+if ($(window).scrollTop() == bb) {
+b.hide()
+}
+b.css("zIndex", "99").click(function() {
+$("body,html").animate({
+scrollTop: 0
+},300);
+});
+$(window).scroll(function() {
+if ($(this).scrollTop() > bb) {
+b.fadeIn();
+} else {
+b.fadeOut();
+}
+});
+})();
+</script>
+<script language="javascript" type="text/javascript">
+</script>
+</div>
+</body>
+</html>

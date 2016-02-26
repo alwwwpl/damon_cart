@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fee793e8-6919-429d-a107-d9272c1b1729" name="Default" comment="" />
+    <ignored path="upload.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="upload" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="product.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/controller/catalog/product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="0" selection-start="2379" selection-end="2379" vertical-scroll-proportion="0.09079754" vertical-offset="316" max-vertical-offset="1320">
+              <folding>
+                <element signature="n#add#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#delete#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#copy#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getList#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getForm#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="e#45716#46022#0" expanded="false" />
+                <element signature="e#46373#46658#0" expanded="false" />
+                <element signature="e#46662#46882#0" expanded="false" />
+                <element signature="e#46764#46846#0" expanded="false" />
+                <element signature="e#46847#46882#0" expanded="false" />
+                <element signature="e#46886#47229#0" expanded="false" />
+                <element signature="e#47012#47180#0" expanded="false" />
+                <element signature="e#47181#47229#0" expanded="false" />
+                <element signature="e#47233#47576#0" expanded="false" />
+                <element signature="e#47359#47527#0" expanded="false" />
+                <element signature="e#47528#47576#0" expanded="false" />
+                <element signature="n#validateForm#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#validateDelete#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#validateCopy#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+                <element signature="n#autocomplete#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bidding.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/model/catalog/bidding.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="27" selection-start="245" selection-end="245" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/model/catalog/product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="107" column="13" selection-start="8975" selection-end="8975" vertical-scroll-proportion="-16.875" vertical-offset="285" max-vertical-offset="9825">
+              <folding>
+                <element signature="e#2376#2624#0" expanded="false" />
+                <element signature="e#2628#3412#0" expanded="false" />
+                <element signature="e#3416#5286#0" expanded="false" />
+                <element signature="e#5907#6454#0" expanded="false" />
+                <element signature="e#6458#6791#0" expanded="false" />
+                <element signature="e#6795#7061#0" expanded="false" />
+                <element signature="e#7065#7331#0" expanded="false" />
+                <element signature="e#7335#7586#0" expanded="false" />
+                <element signature="e#7590#8322#0" expanded="false" />
+                <element signature="e#8326#8671#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_form.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/view/template/catalog/product_form.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="106" selection-start="1359" selection-end="1371" vertical-scroll-proportion="-7.8" vertical-offset="0" max-vertical-offset="8745">
+              <folding>
+                <element signature="tag#ul#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+                <element signature="tag#div#2;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="tag#div#3;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#3;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="tag#div#4;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="tag#div#5;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+                <element signature="tag#div#6;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+                <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#6;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#5;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#6;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="tag#div#7;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+                <element signature="n#style#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#7;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#7;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="tag#div#8;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+                <element signature="tag#div#9;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+                <element signature="tag#div#10;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+                <element signature="n#style#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#11;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#11;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <marker date="1445178924000" expanded="true" signature="76409:76420" placeholder="..." />
+                <marker date="1445178924000" expanded="true" signature="81190:81204" placeholder="..." />
+                <marker date="1445178924000" expanded="true" signature="92482:92493" placeholder="..." />
+                <marker date="1445178924000" expanded="true" signature="92886:92897" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/account/customised_list.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/account/customised_form.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/account/customised_info.tpl" />
+        <option value="$PROJECT_DIR$/catalog/controller/account/customised.php" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/account/account.tpl" />
+        <option value="$PROJECT_DIR$/catalog/model/account/customised.php" />
+        <option value="$PROJECT_DIR$/system/library/cart.php" />
+        <option value="$PROJECT_DIR$/catalog/controller/common/uploade.php" />
+        <option value="$PROJECT_DIR$/admin/model/gold/gold.php" />
+        <option value="$PROJECT_DIR$/admin/controller/gold/index.php" />
+        <option value="$PROJECT_DIR$/admin/controller/common/menu.php" />
+        <option value="$PROJECT_DIR$/catalog/language/chinese/bidding/product.php" />
+        <option value="$PROJECT_DIR$/admin/view/template/sale/gold_list.tpl" />
+        <option value="$PROJECT_DIR$/admin/view/template/sale/gold_form.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/checkout/cart.tpl" />
+        <option value="$PROJECT_DIR$/catalog/controller/checkout/cart.php" />
+        <option value="$PROJECT_DIR$/catalog/model/checkout/order.php" />
+        <option value="$PROJECT_DIR$/catalog/controller/checkout/confirm.php" />
+        <option value="$PROJECT_DIR$/catalog/controller/payment/qrcodeweipay.php" />
+        <option value="$PROJECT_DIR$/catalog/controller/payment/alipay.php" />
+        <option value="$PROJECT_DIR$/catalog/controller/checkout/success.php" />
+        <option value="$PROJECT_DIR$/catalog/controller/bidding/product.php" />
+        <option value="$PROJECT_DIR$/catalog/model/bidding/product.php" />
+        <option value="$PROJECT_DIR$/catalog/controller/bidding/detailed.php" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/bidding/detailed.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/bidding/product.tpl" />
+        <option value="$PROJECT_DIR$/admin/view/template/common/menu.tpl" />
+        <option value="$PROJECT_DIR$/admin/model/sale/gold.php" />
+        <option value="$PROJECT_DIR$/admin/controller/sale/gold.php" />
+        <option value="$PROJECT_DIR$/admin/view/template/sale/customised_list.tpl" />
+        <option value="$PROJECT_DIR$/admin/model/sale/customised.php" />
+        <option value="$PROJECT_DIR$/admin/controller/sale/customised.php" />
+        <option value="$PROJECT_DIR$/admin/view/template/sale/customised_info.tpl" />
+        <option value="$PROJECT_DIR$/admin/view/template/catalog/product_list.tpl" />
+        <option value="$PROJECT_DIR$/catalog/model/account/product_distribute.php" />
+        <option value="$PROJECT_DIR$/catalog/controller/account/product_distribute.php" />
+        <option value="$PROJECT_DIR$/catalog/controller/product/product.php" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/product/product.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/account/product_distribute.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/checkout/payment_address.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/common/footer.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/checkout/shipping_address.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/checkout/checkout.tpl" />
+        <option value="$PROJECT_DIR$/catalog/language/chinese/checkout/checkout.php" />
+        <option value="$PROJECT_DIR$/system/library/session.php" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/common/header.tpl" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/admin/model/catalog/bidding.php" />
+        <option value="$PROJECT_DIR$/admin/view/template/catalog/product_form.tpl" />
+        <option value="$PROJECT_DIR$/admin/model/catalog/product.php" />
+        <option value="$PROJECT_DIR$/admin/controller/catalog/product.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="959" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="vcs.Subversion" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="LayoutCode.rearrangeEntriesSmarty" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin/model/sale" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fee793e8-6919-429d-a107-d9272c1b1729" name="Default" comment="" />
+      <created>1444439103409</created>
+      <updated>1444439103409</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="959" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18803419" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/catalog/controller/payment/lib/alipay_submit.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="120" column="47" selection-start="2955" selection-end="2971" vertical-scroll-proportion="2.3195877" vertical-offset="0" max-vertical-offset="2550" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/bidding/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="265" column="91" selection-start="11235" selection-end="11235" vertical-scroll-proportion="0.61340207" vertical-offset="3499" max-vertical-offset="5355" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/bidding/detailed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="717" column="71" selection-start="33524" selection-end="33524" vertical-scroll-proportion="0.21446384" vertical-offset="10583" max-vertical-offset="11445" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="26" selection-start="764" selection-end="764" vertical-scroll-proportion="0.52369076" vertical-offset="0" max-vertical-offset="7035" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/model/bidding/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="391" column="21" selection-start="24646" selection-end="24646" vertical-scroll-proportion="0.9625935" vertical-offset="5093" max-vertical-offset="6015" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/bidding/product.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="5" selection-start="5380" selection-end="5380" vertical-scroll-proportion="0.50498754" vertical-offset="1305" max-vertical-offset="5475" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/chinese/common/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="48" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.5703422" vertical-offset="0" max-vertical-offset="1575" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controller/common/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="183" column="25" selection-start="15951" selection-end="15961" vertical-scroll-proportion="0.35361215" vertical-offset="2466" max-vertical-offset="3255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/model/account/message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="49" selection-end="881" vertical-scroll-proportion="0.056109726" vertical-offset="0" max-vertical-offset="802" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/account/customised_info.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="9" selection-start="4611" selection-end="5852" vertical-scroll-proportion="0.90797544" vertical-offset="1375" max-vertical-offset="2220" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/model/sale/gold.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="0" selection-start="4253" selection-end="4253" vertical-scroll-proportion="0.63543004" vertical-offset="0" max-vertical-offset="779" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controller/sale/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1759" column="5" selection-start="71359" selection-end="71359" vertical-scroll-proportion="0.4318182" vertical-offset="18" max-vertical-offset="810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controller/sale/customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1098" column="0" selection-start="39889" selection-end="40094" vertical-scroll-proportion="0.5673941" vertical-offset="8" max-vertical-offset="7890" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controller/sale/gold.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="52" selection-start="2008" selection-end="2008" vertical-scroll-proportion="0.41666666" vertical-offset="0" max-vertical-offset="1200" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/sale/gold_list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="44" selection-start="1497" selection-end="1504" vertical-scroll-proportion="0.46633416" vertical-offset="106" max-vertical-offset="1920" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/model/sale/customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="0" selection-start="4844" selection-end="5460" vertical-scroll-proportion="0.617207" vertical-offset="315" max-vertical-offset="7965" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/sale/customised_list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="48" selection-start="1487" selection-end="1494" vertical-scroll-proportion="0.4862843" vertical-offset="75" max-vertical-offset="1905" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/sale/order_info.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="846" column="23" selection-start="35121" selection-end="35121" vertical-scroll-proportion="-0.018703243" vertical-offset="12705" max-vertical-offset="14025" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/sale/customised_info.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="26" selection-start="5353" selection-end="5353" vertical-scroll-proportion="0.16881444" vertical-offset="1384" max-vertical-offset="2235" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controller/sale/customised.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="9" selection-start="357" selection-end="928" vertical-scroll-proportion="0.42331287" vertical-offset="30" max-vertical-offset="2190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/model/sale/customised.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="68" selection-start="4862" selection-end="4862" vertical-scroll-proportion="0.6932668" vertical-offset="1049" max-vertical-offset="1875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/catalog/option_list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="83" selection-start="1506" selection-end="1506" vertical-scroll-proportion="0.52369076" vertical-offset="0" max-vertical-offset="1305" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/catalog/product_list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="34" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.3179551" vertical-offset="0" max-vertical-offset="3645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/bidding/detailed.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="518" column="0" selection-start="28066" selection-end="28066" vertical-scroll-proportion="1.0374064" vertical-offset="6938" max-vertical-offset="10695" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/account/customised_list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="22" selection-start="3965" selection-end="3965" vertical-scroll-proportion="0.6446384" vertical-offset="413" max-vertical-offset="1215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/common/menu.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="41" selection-start="1286" selection-end="1286" vertical-scroll-proportion="0.33128834" vertical-offset="0" max-vertical-offset="3120" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/common/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="46" selection-start="1080" selection-end="1080" vertical-scroll-proportion="-0.27182046" vertical-offset="503" max-vertical-offset="1305" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="20" selection-start="2154" selection-end="2154" vertical-scroll-proportion="-19.375" vertical-offset="120" max-vertical-offset="2580">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/account/customised.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="369" column="0" selection-start="15221" selection-end="15472" vertical-scroll-proportion="0.6625767" vertical-offset="60" max-vertical-offset="1065" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/model/account/customised.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="25" selection-start="377" selection-end="377" vertical-scroll-proportion="0.14962594" vertical-offset="0" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/account/product_distribute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="234" column="37" selection-start="10254" selection-end="10254" vertical-scroll-proportion="0.0" vertical-offset="3510" max-vertical-offset="4590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/product/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="454" column="27" selection-start="16730" selection-end="16738" vertical-scroll-proportion="0.0" vertical-offset="6390" max-vertical-offset="10545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/product/product.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="253" column="39" selection-start="14927" selection-end="14927" vertical-scroll-proportion="0.0" vertical-offset="3210" max-vertical-offset="10485">
+          <folding>
+            <marker date="1444980622000" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/common/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="46" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.33712122" vertical-offset="468" max-vertical-offset="1260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/common/footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="41" selection-start="232" selection-end="232" vertical-scroll-proportion="0.17928287" vertical-offset="0" max-vertical-offset="3435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/chinese/checkout/checkout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="22" selection-start="999" selection-end="999" vertical-scroll-proportion="0.41666666" vertical-offset="0" max-vertical-offset="1695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/common/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="54" selection-start="2743" selection-end="2771" vertical-scroll-proportion="0.6585366" vertical-offset="327" max-vertical-offset="2325">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="298" column="8" selection-start="7925" selection-end="7925" vertical-scroll-proportion="0.7304236" vertical-offset="3901" max-vertical-offset="5235">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="301" selection-end="301" vertical-scroll-proportion="0.18939394" vertical-offset="0" max-vertical-offset="792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/checkout/checkout.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="41" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.5179283" vertical-offset="0" max-vertical-offset="11550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/checkout/payment_method.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="46" selection-start="361" selection-end="361" vertical-scroll-proportion="0.15151516" vertical-offset="0" max-vertical-offset="792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/account/product_distribute.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="49" selection-start="1315" selection-end="1315" vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="3195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/common/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="259" column="64" selection-start="11455" selection-end="11455" vertical-scroll-proportion="0.58354115" vertical-offset="3417" max-vertical-offset="5460">
+          <folding>
+            <marker date="1445174774000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1445174774000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445174774000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445174774000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/checkout/shipping_address.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="12" selection-start="1268" selection-end="1268" vertical-scroll-proportion="-0.6371571" vertical-offset="856" max-vertical-offset="5235">
+          <folding>
+            <element signature="n#style#0;n#div#3;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#3;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#div#3;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#div#3;n#form#0;n#!!top" expanded="true" />
+            <marker date="1445172515000" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/bt_fashionist/template/checkout/payment_address.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="217" column="3" selection-start="13433" selection-end="13433" vertical-scroll-proportion="4.1945877" vertical-offset="0" max-vertical-offset="5235">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#3;n#form#0;n#!!top" expanded="true" />
+            <marker date="1444983894000" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/model/account/product_distribute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="19" selection-start="974" selection-end="974" vertical-scroll-proportion="0.1957606" vertical-offset="38" max-vertical-offset="840">
+          <folding>
+            <marker date="1444980085000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/model/catalog/download.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="28" selection-start="0" selection-end="3984" vertical-scroll-proportion="0.46758103" vertical-offset="0" max-vertical-offset="1665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/model/catalog/bidding.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="27" selection-start="245" selection-end="245" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/catalog/product_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="106" selection-start="1359" selection-end="1371" vertical-scroll-proportion="-7.8" vertical-offset="0" max-vertical-offset="8745">
+          <folding>
+            <element signature="tag#ul#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="tag#div#3;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#3;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="tag#div#4;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="tag#div#5;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+            <element signature="tag#div#6;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+            <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#6;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#6;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="tag#div#7;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+            <element signature="n#style#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#7;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#7;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="tag#div#8;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+            <element signature="tag#div#9;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+            <element signature="tag#div#10;tag#div#0;tag#form#0;tag#div#1;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#11;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#11;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <marker date="1445178924000" expanded="true" signature="76409:76420" placeholder="..." />
+            <marker date="1445178924000" expanded="true" signature="81190:81204" placeholder="..." />
+            <marker date="1445178924000" expanded="true" signature="92482:92493" placeholder="..." />
+            <marker date="1445178924000" expanded="true" signature="92886:92897" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/model/catalog/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="13" selection-start="8975" selection-end="8975" vertical-scroll-proportion="-16.875" vertical-offset="285" max-vertical-offset="9825">
+          <folding>
+            <element signature="e#2376#2624#0" expanded="false" />
+            <element signature="e#2628#3412#0" expanded="false" />
+            <element signature="e#3416#5286#0" expanded="false" />
+            <element signature="e#5907#6454#0" expanded="false" />
+            <element signature="e#6458#6791#0" expanded="false" />
+            <element signature="e#6795#7061#0" expanded="false" />
+            <element signature="e#7065#7331#0" expanded="false" />
+            <element signature="e#7335#7586#0" expanded="false" />
+            <element signature="e#7590#8322#0" expanded="false" />
+            <element signature="e#8326#8671#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controller/catalog/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="0" selection-start="2379" selection-end="2379" vertical-scroll-proportion="0.09079754" vertical-offset="316" max-vertical-offset="1320">
+          <folding>
+            <element signature="n#add#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#delete#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#copy#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getList#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getForm#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="e#45716#46022#0" expanded="false" />
+            <element signature="e#46373#46658#0" expanded="false" />
+            <element signature="e#46662#46882#0" expanded="false" />
+            <element signature="e#46764#46846#0" expanded="false" />
+            <element signature="e#46847#46882#0" expanded="false" />
+            <element signature="e#46886#47229#0" expanded="false" />
+            <element signature="e#47012#47180#0" expanded="false" />
+            <element signature="e#47181#47229#0" expanded="false" />
+            <element signature="e#47233#47576#0" expanded="false" />
+            <element signature="e#47359#47527#0" expanded="false" />
+            <element signature="e#47528#47576#0" expanded="false" />
+            <element signature="n#validateForm#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#validateDelete#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#validateCopy#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+            <element signature="n#autocomplete#0;n#ControllerCatalogProduct#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

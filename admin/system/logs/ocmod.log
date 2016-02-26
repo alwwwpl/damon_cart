@@ -1,0 +1,192 @@
+2015-09-07 0:06:42 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 21
+LINE: 27
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Add new position</font>
+FILE: catalog/controller/common/header.php
+CODE: $data['links'] = $this->document->getLinks();
+LINE: 14
+FILE: catalog/controller/common/footer.php
+CODE: $data['newsletter'] = $this->url->link('account/newsletter', '', 'SSL');
+LINE: 43
+FILE: admin/view/template/design/layout_form.tpl
+CODE: <td class="text-left"><select name="layout_module[<?php echo $module_row; ?>][position]" class="form-control">
+LINE: 105
+CODE: html += '    <option value="content_top"><?php echo $text_content_top; ?></option>';
+LINE: 194
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Add Product Discount</font>
+FILE: catalog/controller/product/product.php
+CODE: $this->model_catalog_product->updateViewed($this->request->get['product_id']);
+LINE: 458
+FILE: catalog/view/theme/bt_fashionist/template/product/product.tpl
+CODE: <?php if ($options) { ?>
+NOT FOUND!
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: <?php if ($options) { ?>
+NOT FOUND!
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Edit Language</font>
+FILE: admin/view/template/design/layout_list.tpl
+CODE: <div class="pull-right"><a href="<?php echo $add; ?>" data-toggle="tooltip" title="<?php echo $button_add; ?>" class="btn btn-primary"><i class="fa fa-plus"></i></a>
+LINE: 4
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Seo Boss Blog</font>
+FILE: catalog/controller/common/seo_url.php
+CODE: if ($query->row['query'] && $url[0] != 'information_id' && $url[0] != 'manufacturer_id' && $url[0] != 'category_id' && $url[0] != 'product_id') {
+LINE: 57
+CODE: if ($query->row['query'] && $url[0] != 'information_id' && $url[0] != 'manufacturer_id' && $url[0] != 'category_id' && $url[0] != 'product_id') {
+LINE: 57
+CODE: } elseif (isset($this->request->get['path'])) {
+LINE: 72
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 79
+CODE: if (($data['route'] == 'product/product' && $key == 'product_id') || (($data['route'] == 'product/manufacturer/info' || $data['route'] == 'product/product') && $key == 'manufacturer_id') || ($data['route'] == 'information/information' && $key == 'information_id')) {
+LINE: 107
+CODE: $query = $this->db->query("SELECT * FROM " . DB_PREFIX . "url_alias WHERE `query` = 'category_id=" . (int)$category . "'");
+LINE: 121
+CODE: } elseif ($key == 'path') {
+LINE: 117
+----------------------------------------------------------------
+2015-09-08 0:25:02 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 21
+LINE: 27
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Add new position</font>
+FILE: catalog/controller/common/header.php
+CODE: $data['links'] = $this->document->getLinks();
+LINE: 14
+FILE: catalog/controller/common/footer.php
+CODE: $data['newsletter'] = $this->url->link('account/newsletter', '', 'SSL');
+LINE: 43
+FILE: admin/view/template/design/layout_form.tpl
+CODE: <td class="text-left"><select name="layout_module[<?php echo $module_row; ?>][position]" class="form-control">
+LINE: 105
+CODE: html += '    <option value="content_top"><?php echo $text_content_top; ?></option>';
+LINE: 194
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Add Product Discount</font>
+FILE: catalog/controller/product/product.php
+CODE: $this->model_catalog_product->updateViewed($this->request->get['product_id']);
+LINE: 458
+FILE: catalog/view/theme/bt_fashionist/template/product/product.tpl
+CODE: <?php if ($options) { ?>
+NOT FOUND!
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: <?php if ($options) { ?>
+NOT FOUND!
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Edit Language</font>
+FILE: admin/view/template/design/layout_list.tpl
+CODE: <div class="pull-right"><a href="<?php echo $add; ?>" data-toggle="tooltip" title="<?php echo $button_add; ?>" class="btn btn-primary"><i class="fa fa-plus"></i></a>
+LINE: 4
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Seo Boss Blog</font>
+FILE: catalog/controller/common/seo_url.php
+CODE: if ($query->row['query'] && $url[0] != 'information_id' && $url[0] != 'manufacturer_id' && $url[0] != 'category_id' && $url[0] != 'product_id') {
+LINE: 57
+CODE: if ($query->row['query'] && $url[0] != 'information_id' && $url[0] != 'manufacturer_id' && $url[0] != 'category_id' && $url[0] != 'product_id') {
+LINE: 57
+CODE: } elseif (isset($this->request->get['path'])) {
+LINE: 72
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 79
+CODE: if (($data['route'] == 'product/product' && $key == 'product_id') || (($data['route'] == 'product/manufacturer/info' || $data['route'] == 'product/product') && $key == 'manufacturer_id') || ($data['route'] == 'information/information' && $key == 'information_id')) {
+LINE: 107
+CODE: $query = $this->db->query("SELECT * FROM " . DB_PREFIX . "url_alias WHERE `query` = 'category_id=" . (int)$category . "'");
+LINE: 121
+CODE: } elseif ($key == 'path') {
+LINE: 117
+----------------------------------------------------------------
+2015-09-08 0:30:33 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 21
+LINE: 27
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Add new position</font>
+FILE: catalog/controller/common/header.php
+CODE: $data['links'] = $this->document->getLinks();
+LINE: 14
+FILE: catalog/controller/common/footer.php
+CODE: $data['newsletter'] = $this->url->link('account/newsletter', '', 'SSL');
+LINE: 43
+FILE: admin/view/template/design/layout_form.tpl
+CODE: <td class="text-left"><select name="layout_module[<?php echo $module_row; ?>][position]" class="form-control">
+LINE: 105
+CODE: html += '    <option value="content_top"><?php echo $text_content_top; ?></option>';
+LINE: 194
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Add Product Discount</font>
+FILE: catalog/controller/product/product.php
+CODE: $this->model_catalog_product->updateViewed($this->request->get['product_id']);
+LINE: 458
+FILE: catalog/view/theme/bt_fashionist/template/product/product.tpl
+CODE: <?php if ($options) { ?>
+NOT FOUND!
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: <?php if ($options) { ?>
+NOT FOUND!
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Edit Language</font>
+FILE: admin/view/template/design/layout_list.tpl
+CODE: <div class="pull-right"><a href="<?php echo $add; ?>" data-toggle="tooltip" title="<?php echo $button_add; ?>" class="btn btn-primary"><i class="fa fa-plus"></i></a>
+LINE: 4
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Seo Boss Blog</font>
+FILE: catalog/controller/common/seo_url.php
+CODE: if ($query->row['query'] && $url[0] != 'information_id' && $url[0] != 'manufacturer_id' && $url[0] != 'category_id' && $url[0] != 'product_id') {
+LINE: 57
+CODE: if ($query->row['query'] && $url[0] != 'information_id' && $url[0] != 'manufacturer_id' && $url[0] != 'category_id' && $url[0] != 'product_id') {
+LINE: 57
+CODE: } elseif (isset($this->request->get['path'])) {
+LINE: 72
+CODE: $this->request->get['route'] = 'information/information';
+LINE: 79
+CODE: if (($data['route'] == 'product/product' && $key == 'product_id') || (($data['route'] == 'product/manufacturer/info' || $data['route'] == 'product/product') && $key == 'manufacturer_id') || ($data['route'] == 'information/information' && $key == 'information_id')) {
+LINE: 107
+CODE: $query = $this->db->query("SELECT * FROM " . DB_PREFIX . "url_alias WHERE `query` = 'category_id=" . (int)$category . "'");
+LINE: 121
+CODE: } elseif ($key == 'path') {
+LINE: 117
+----------------------------------------------------------------

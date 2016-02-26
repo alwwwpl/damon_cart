@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+    <id></id>
+    <version>注册增加代理号</version>
+    <vqmver required="true">2.5.0</vqmver>
+    <author>iddmall.com</author>
+    
+    <file name="catalog/controller/account/register.php">
+        <operation error="skip">
+            <search position="before"><![CDATA[$this->load->language('account/register');]]></search>
+            <add><![CDATA[
+                $code = $this->request->get['code'];
+                if(!$code){
+                    $this->session->data['error'] = '没有邀请码不能注册';
+                    $this->response->redirect($this->url->link('common/home', '', 'SSL'));
+                }
+
+                $agent_id = hexdec($code)-100000;
+                $this->request->post['agent_id'] = $agent_id;
+            ]]></add>
+        </operation>
+
+        <operation error="skip">
+            <search position="replace"><![CDATA[$data['action'] = $this->url->link('account/register', '', 'SSL');]]></search>
+            <add><![CDATA[
+                $data['action'] = $this->url->link('account/register', "code={$code}", 'SSL');
+            ]]></add>
+        </operation>
+    </file>
+
+    <file name="catalog/model/account/customer.php">
+        <operation error="skip">
+            <search position="replace"><![CDATA[$this->db->query("INSERT INTO " . DB_PREFIX . "customer SET customer_group_id = '" . (int)$customer_group_id . "', store_id = '" . (int)$this->config->get('config_store_id') . "', firstname = '" . $this->db->escape($data['firstname']) . "', lastname = '" . $this->db->escape($data['lastname']) . "', email = '" . $this->db->escape($data['email']) . "', telephone = '" . $this->db->escape($data['telephone']) . "', fax = '" . $this->db->escape($data['fax']) . "', custom_field = '" . $this->db->escape(isset($data['custom_field']['account']) ? serialize($data['custom_field']['account']) : '') . "', salt = '" . $this->db->escape($salt = substr(md5(uniqid(rand(), true)), 0, 9)) . "', password = '" . $this->db->escape(sha1($salt . sha1($salt . sha1($data['password'])))) . "', newsletter = '" . (isset($data['newsletter']) ? (int)$data['newsletter'] : 0) . "', ip = '" . $this->db->escape($this->request->server['REMOTE_ADDR']) . "', status = '1', approved = '" . (int)!$customer_group_info['approval'] . "', date_added = NOW()");]]></search>
+            <add><![CDATA[
+                $this->db->query("INSERT INTO " . DB_PREFIX . "customer SET customer_group_id = '" . (int)$customer_group_id . "', store_id = '" . (int)$this->config->get('config_store_id') . "', firstname = '" . $this->db->escape($data['firstname']) . "', lastname = '" . $this->db->escape($data['lastname']) . "', email = '" . $this->db->escape($data['email']) . "', telephone = '" . $this->db->escape($data['telephone']) . "', fax = '" . $this->db->escape($data['fax']) . "', custom_field = '" . $this->db->escape(isset($data['custom_field']['account']) ? serialize($data['custom_field']['account']) : '') . "', salt = '" . $this->db->escape($salt = substr(md5(uniqid(rand(), true)), 0, 9)) . "', password = '" . $this->db->escape(sha1($salt . sha1($salt . sha1($data['password'])))) . "', newsletter = '" . (isset($data['newsletter']) ? (int)$data['newsletter'] : 0) . "', ip = '" . $this->db->escape($this->request->server['REMOTE_ADDR']) . "', status = '1', approved = '" . (int)!$customer_group_info['approval'] . "', date_added = NOW(), agent_id = " . $data['agent_id']);
+            ]]></add>
+        </operation>
+    </file>
+
+</modification>

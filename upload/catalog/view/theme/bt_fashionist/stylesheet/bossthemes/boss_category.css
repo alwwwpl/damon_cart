@@ -1,0 +1,110 @@
+/*module category*/
+
+
+.title-spec { margin-bottom:7px; text-indent:20px}
+.submenu  .submenu{border:none}
+.submenu-inside {  padding:0 0 10px 0;}
+.submenu-inside  dl { position:relative;margin: 0}
+.submenu-inside   dl:hover{ z-index:1600}
+.submenu-inside  dl , .submenu-inside  dd{ margin-left:0}
+.submenu-inside  a {
+	font-family: "Lato",sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.submenu-inside > .cate-list-item{
+	border-top: 1px solid #eeeeee;
+    margin-bottom: 10px;
+    padding-top: 9px;
+}
+.submenu-inside > .cate-list-item:first-child{border-top:none}
+.submenu-inside  a.active{cursor:default}
+.submenu-inside   dl > dt > a { display:inline-block; position:relative; z-index:2}
+.submenu-inside   dl.submenu > dt > a { display:block}
+.submenu-inside   dl.submenu:hover > dt > a  { }
+.submenu-inside .cate-list-item > dd{
+	left: 100%;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    visibility: hidden;
+    z-index: -1;
+}
+
+.submenu-inside .cate-list-item.submenu dd.sub-cate-list {
+	background-color: #ffffff;
+    border: 1px solid #dbdbdb;
+    left: 120%;
+    margin: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    transform: scale(0.7, 1);
+    -webkit-transform: scale(0.7, 1);
+    transform-origin: right center 0;
+    -webkit-transform-origin: right center 0;
+    transition: all 0.3s ease 0s;
+	-webkit-transition: all 0.3s ease 0s;
+    visibility: hidden;
+    z-index: -1;
+}
+#column-right .submenu-inside .cate-list-item.submenu dd.sub-cate-list{left:auto; right:100%}
+.submenu-inside .cate-list-item.submenu:hover > dd.sub-cate-list {
+	left: 99.9%;
+    opacity: 1;
+    padding: 10px 0 15px;
+    transform: scale(1, 1);
+    visibility: visible;
+    z-index: 0;
+}
+.submenu-inside .cate-list-item.submenu dd.sub-cate-list > div.sub-item{
+	clear: none;
+    float: left;
+    margin-left: -1px;
+    padding: 0 15px;
+}
+.submenu-inside .cate-list-item.submenu dd.sub-cate-list > div.sub-item > dl {
+	border-top: 1px solid #eeeeee;
+    margin-bottom: 10px;
+    padding-top: 9px;
+}
+.submenu-inside .cate-list-item.submenu dd.sub-cate-list > div.sub-item > dl:first-child{border-top:none}
+.submenu-inside .cate-list-item.submenu dd.sub-cate-list > div.sub-item > dl .cate-list-item{
+	border-top: 1px solid #eeeeee;
+    margin-bottom: 10px;
+    padding-top: 9px;
+}
+.submenu-inside .cate-list-item.submenu dd.sub-cate-list > div.sub-item > dl .cate-list-item:first-child{border-top:none}
+.submenu-inside .cate-list-item.submenu dd.sub-cate-list > div.sub-item  dl  dt  a{padding:0; margin:0}
+.submenu-inside .cate-list-item.submenu dd.sub-cate-list > div.sub-item > dl:hover > dt > a {}
+.submenu-inside .sub-cate-list > dl { display: inline-block;vertical-align: top;width: 49%;}
+.submenu-inside .sub-cate-list > dl > dt > a {line-height:32px;height:30px; display:block;}
+.submenu-inside .sub-cate-list   dl:hover > dt > a { width:100%; background:none; border:0; }
+.submenu-inside dd {
+    padding-left: 25px;
+}
+
+.submenu-inside .sub-cate-list  .cate-list-item.submenu > dd { 
+	background-color: #ffffff;
+    border: 1px solid #cccccc;
+    display: block;
+    opacity: 0;
+    padding: 10px 15px 15px;
+    visibility: hidden;
+	transition: all 0.3s ease 0s;
+	-webkit-transition: all 0.3s ease 0s;
+    z-index: 5;
+}
+.submenu-inside .sub-cate-list  .cate-list-item.submenu:hover > dd  {
+	background-color: #ffffff;
+    border: 1px solid #cccccc;
+    display: block;
+    opacity: 1;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    visibility: visible;
+    width: 100%;
+    z-index: 5;
+}

@@ -1,0 +1,122 @@
+/* date time */
+.remain-time {
+    display:block;
+	width:100%;
+	overflow:hidden;
+	margin-bottom:3px;
+}
+.remain-time div {
+    display:inline-block;
+    line-height: 14px;
+    min-width: 24px;
+    text-align: center;
+	margin-bottom:10px;	
+}
+.remain-time div.sep {
+    min-width: 7px;
+    padding-top: 5px;
+    text-align: center;
+	font-weight:800;
+}
+.list-product div.item{
+	overflow: hidden;
+}
+.list-product div.item + div.item{
+	border-top:1px solid #e5e5e5;
+	padding-top:20px;
+}
+.list-product .money-save, .list-product .percent-save  {
+	font-size: 12px;
+	color: #555;
+	font-weight: 700;
+}
+/* button product detail */
+#tday,#thour,#tmin,#tsec{}
+#product #tday,#product #thour,#product #tmin,#product #tsec{}
+#product #tday .ttext,#product #thour .ttext,#product #tmin .ttext,#product #tsec .ttext{}
+#countsp{margin:10px 0 20px}
+#countsp .status{font-weight:500; color:#eab993;}
+.list-product .right .price{
+	display:block;
+	font-size:14px;
+	text-align:center;
+	margin-bottom: 15px;
+}
+.list-product .right .price .price-old{
+	margin-right:11px;
+}
+.list-product .right .price .percent-save,.list-product .right .price .money-save{
+	display:none;
+}
+.list-product .right .cart{
+	display:block;
+	text-align:center;
+	margin-bottom:14px;
+}
+
+.list-product .right{
+	overflow:hidden;
+}
+.list-product .right .cart .button{
+	display:none;
+}
+#specialproductcount .countofferprd{display:block}
+.remain-time span, .countdate .number{
+	font-family: 'Raleway', sans-serif;
+	font-size:12px;
+	text-transform:lowercase;
+	color:#666;
+	font-weight:400;
+	display:block;
+}
+.countdate > div{display:inline-block}
+.remain-time .number, .countdate span.number{
+	border:none;
+	margin-top:2px;
+	height:35px;
+	line-height:16px;
+	background:#8da662;
+	padding:10px 18px ;
+	margin-bottom:9px;
+	text-align:center;
+	float:none;
+	position:relative;
+}
+.remain-time .number:before, .countdate span.number:before{
+	background:#000;
+	opacity:0.2;
+	content:'';
+	top:50%;
+	left:0;
+	height:1px;
+	width:100%;
+	position:absolute;
+}
+.remain-time .number b, .countdate span.number b{
+	font-family: Arial;
+	font-size:14px;
+	font-weight:700;
+	color:#fff;
+	position:relative;
+	z-index:1;
+}
+.remain-time .number.date{
+	color:#fff;
+}
+.list-product .right .status {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 14px;
+	font-family: 'Raleway', sans-serif;
+	display:block;
+	color:#000000;
+}
+.status .small{
+	font-size: 11px;
+	font-weight: normal;
+	color: #787878;
+}
+.list-product .right .name{margin-bottom:4px}
+.list-product .right .rating{margin-bottom:8px}
+.list-product .right .qty{display:none}

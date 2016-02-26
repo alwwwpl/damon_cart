@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items_setting>
+  <groups>
+    <title>General</title>
+    <item>
+      <text>General</text>
+      <style>default</style>
+      <size>default</size>
+      <weight>default</weight>
+      <transform>default</transform>
+      <class_name>body</class_name>
+    </item>
+    <item>
+      <text>Button</text>
+      <style>default</style>
+      <size>default</size>
+      <weight>default</weight>
+      <transform>default</transform>
+      <class_name>.btn</class_name>
+    </item>
+  </groups>
+  <groups>
+    <title>Header</title>
+    <item>
+      <text>Link</text>
+      <style>default</style>
+      <size>default</size>
+      <weight>default</weight>
+      <transform>default</transform>
+      <class_name>#top-links ul li a, #top-links ul li span, #language span, #currency span, #top .welcome</class_name>
+    </item>
+  </groups>
+  <groups>
+    <title>Footer</title>
+    <item>
+      <text>Footer font 1</text>
+      <style>default</style>
+      <size>default</size>
+      <weight>default</weight>
+      <transform>default</transform>
+      <class_name>footer h3</class_name>
+    </item>
+    <item>
+      <text>Footer font 2</text>
+      <style>default</style>
+      <size>default</size>
+      <weight>default</weight>
+      <transform>default</transform>
+      <class_name>footer ul li a, .footer-about</class_name>
+    </item>
+  </groups>
+  <groups>
+    <title>Menu</title>
+    <item>
+      <text>Menu font 1</text>
+      <style>default</style>
+      <size>default</size>
+      <weight>default</weight>
+      <transform>default</transform>
+      <class_name>.mega-menu &amp;gt; ul.nav &amp;gt; li &amp;gt; a</class_name>
+    </item>
+    <item>
+      <text>Menu font 2</text>
+      <style>default</style>
+      <size>default</size>
+      <weight>default</weight>
+      <transform>default</transform>
+      <class_name>.mega-menu &amp;gt; ul.nav &amp;gt; li .dropdown .menu-row a.parent, .mega-menu &amp;gt; ul.nav &amp;gt; li .dropdown .menu-row ul.column li a</class_name>
+    </item>
+  </groups>
+  <groups>
+    <title>Product</title>
+    <item>
+      <text>Product name</text>
+      <style>default</style>
+      <size>default</size>
+      <weight>default</weight>
+      <transform>default</transform>
+      <class_name>.name a</class_name>
+    </item>
+    <item>
+      <text>Product price</text>
+      <style>default</style>
+      <size>default</size>
+      <weight>default</weight>
+      <transform>default</transform>
+      <class_name>.price</class_name>
+    </item>
+  </groups>
+  <groups>
+    <title>Title</title>
+    <item>
+      <text>Page title</text>
+      <style>default</style>
+      <size>default</size>
+      <weight>default</weight>
+      <transform>default</transform>
+      <class_name>.boss_homefilter_tabs .box-content h3, .boss-custom-pro h3, .boss-static-content-welcome .title h3, footer h3, h1, h2, h3, .bt-box .box-heading, .tab-header</class_name>
+    </item>
+  </groups>
+  <customs/>
+</items_setting>

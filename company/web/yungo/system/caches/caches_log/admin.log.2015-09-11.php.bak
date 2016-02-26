@@ -1,0 +1,44 @@
+
+2015-09-11 09:54:21更新了全站缓存
+2015-09-11 11:08:30------>array (
+  0 => 'UPDATE `go_config` SET `value`=\'一元欢乐购\' WHERE (`name`=\'web_name\')',
+  1 => 'UPDATE `go_config` SET `value`=\'欢购\' WHERE (`name`=\'web_name_two\')',
+  2 => 'UPDATE `go_config` SET `value`=\'一元欢乐购,1元幸运购,一元欢乐购,1元夺宝,1元云购,1元欢乐购物,一元夺宝,1元夺宝奇兵\' WHERE (`name`=\'web_key\')',
+  3 => 'UPDATE `go_config` SET `value`=\'一元欢乐购,就是指只需1元就有机会获得一件超值的商品,是基于人人参与抽好运的形式,既好玩又有趣,不容错过。yyg001.com\' WHERE (`name`=\'web_des\')',
+  4 => 'UPDATE `go_config` SET `value`=\'yyg001.com\' WHERE (`name`=\'web_path\')',
+  5 => 'UPDATE `go_config` SET `value`=\'banner/20150910/35060110870366.png\' WHERE (`name`=\'web_logo\')',
+  6 => 'UPDATE `go_config` SET `value`=\'一元欢乐购 (C)版权所有 2015 <br/>粤ICP备15078603号\' WHERE (`name`=\'web_copyright\')',
+) 
+
+
+
+2015-09-11 18:37:19------>array (
+  0 => 'DELETE FROM `go_article` WHERE (`id`=\'16\') LIMIT 1',
+) 
+
+
+
+
+2015-09-11 18:47:19更新了全站缓存
+
+2015-09-11 18:52:41更新了全站缓存
+2015-09-11 21:52:52------>array (
+  0 => 'UPDATE `go_pay` SET `pay_name` = \'支付宝\',`pay_thumb` = \'photo/20130929/82028078450752.jpg\',`pay_type` = \'1\',`pay_des` = \'支付宝支付
+3028086217@qq.com\',`pay_start` = \'1\',`pay_key` = \'a:3:{s:2:"id";a:2:{s:4:"name";s:19:"支付宝商户号:";s:3:"val";s:12:"511689900188";}s:3:"key";a:2:{s:4:"name";s:16:"支付宝密钥:";s:3:"val";s:32:"Sx8vyWHNRd6ebnWH8FANEEpEkjzQx49v";}s:4:"user";a:2:{s:4:"name";s:16:"支付宝账号:";s:3:"val";s:13:"aoanda@qq.com";}}\' where `pay_id` = \'4\'',
+) 
+
+
+
+2015-09-11 21:54:32------>array (
+  0 => 'UPDATE `go_pay` SET `pay_name` = \'支付宝\',`pay_thumb` = \'photo/20130929/82028078450752.jpg\',`pay_type` = \'1\',`pay_des` = \'支付宝支付\',`pay_start` = \'1\',`pay_key` = \'a:3:{s:2:"id";a:2:{s:4:"name";s:19:"支付宝商户号:";s:3:"val";s:12:"511689900188";}s:3:"key";a:2:{s:4:"name";s:16:"支付宝密钥:";s:3:"val";s:32:"Sx8vyWHNRd6ebnWH8FANEEpEkjzQx49v";}s:4:"user";a:2:{s:4:"name";s:16:"支付宝账号:";s:3:"val";s:17:"3028086217@qq.com";}}\' where `pay_id` = \'4\'',
+) 
+
+
+
+2015-09-11 22:05:54------>array (
+  0 => 'UPDATE `go_shoplist` SET `maxqishu` = \'100\' where `sid` = \'360\'',
+  1 => 'UPDATE `go_shoplist` SET `cateid` = \'51\', `brandid` = \'152\', `title` = \'三只松鼠 芒果干116gx3袋【包邮】\', `title_style` = \'\', `title2` = \'三只松鼠 芒果干116gx3袋【包邮】\', `keywords`=\'三只松鼠 芒果干116gx3袋【包邮】\', `description`=\'三只松鼠 芒果干116gx3袋【包邮】\', `thumb` = \'shopimg/20150905/44963639442051.jpg\', `picarr` = \'a:2:{i:0;s:35:"shopimg/20150905/34151416442065.jpg";i:1;s:35:"shopimg/20150905/46494730442065.jpg";}\', `content` = \'<p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920420462.jpg" style="" title="2_1437920420462.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920420620.jpg" style="" title="2_1437920420620.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920420640.jpg" style="" title="2_1437920420640.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920421232.jpg" style="" title="2_1437920421232.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920421373.jpg" style="" title="2_1437920421373.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920421422.jpg" style="" title="2_1437920421422.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920421555.jpg" style="" title="2_1437920421555.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920421693.jpg" style="" title="2_1437920421693.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920421902.jpg" style="" title="2_1437920421902.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920422030.jpg" style="" title="2_1437920422030.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920422041.jpg" style="" title="2_1437920422041.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920422234.jpg" style="" title="2_1437920422234.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920422360.jpg" style="" title="2_1437920422360.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920422510.jpg" style="" title="2_1437920422510.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920422680.jpg" style="" title="2_1437920422680.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920422706.jpg" style="" title="2_1437920422706.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920422983.jpg" style="" title="2_1437920422983.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920423005.jpg" style="" title="2_1437920423005.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920423194.jpg" style="" title="2_1437920423194.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920423291.jpg" style="" title="2_1437920423291.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920423474.jpg" style="" title="2_1437920423474.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920423511.jpg" style="" title="2_1437920423511.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920423739.jpg" style="" title="2_1437920423739.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920423830.jpg" style="" title="2_1437920423830.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920423938.jpg" style="" title="2_1437920423938.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920424202.jpg" style="" title="2_1437920424202.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920424312.jpg" style="" title="2_1437920424312.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920424416.jpg" style="" title="2_1437920424416.jpg"/></p><p><img src="http://img01.ygqq.com/upload/goodsfile/20150726/2_1437920424663.jpg" style="" title="2_1437920424663.jpg"/></p><p><br/></p>\', `maxqishu` = \'100\', `renqi` = \'1\', `bannershop` = \'0\', `xsjx_time` = \'1442973600\', `quyu`=\'\',	`renqipos` = \'0\' ,	`newpos` = \'0\' ,	`posthumb` = \'photo/goods.jpg\' , `pos` = \'1\'	WHERE `id`=\'360\'',
+) 
+
+
+

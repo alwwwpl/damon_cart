@@ -1,0 +1,256 @@
+﻿{wc:templates "index","header"}
+<div class="main-content clearfix">
+{wc:templates "member","left"}
+<link rel="stylesheet" type="text/css" href="{G_TEMPLATES_STYLE}/css/layout-recharge.css"/>
+<link rel="stylesheet" type="text/css" href="{G_TEMPLATES_CSS}/card.css"/>
+<script>
+$(function(){
+	var je=$("#ulMoneyList li");
+	var dx=/\D/;
+	je.click(function(){
+		je.removeClass("selected");
+		je.find("input").removeAttr("checked");
+		var radio=je.index(this);
+			je.eq(radio).find("input").attr('checked','checked');
+			je.eq(radio).addClass("selected");
+		var valx=je.eq(radio).find("input").val();
+		$("#Money").text(valx);
+		$("#hidMoney").val(valx);
+	});
+	var tel=$("#txtOtherMoney").val();
+	$("#txtOtherMoney").keyup(function(){	
+		if(dx.test($("#txtOtherMoney").val())){
+			$("#txtOtherMoney").val(tel);			
+		}else{
+			tel=$("#txtOtherMoney").val();
+		}
+		$("#Money").text(tel);
+		$("#hidMoney").val(tel);
+	}); 
+})
+</script>
+<style type="text/css">
+.total{margin-top: 10px;
+background: #fffce2;
+line-height: 20px;
+border: #fd9 1px solid;
+padding: 10px 20px;
+overflow: hidden;
+color: #666;
+zoom: 1;}
+.Apply-con dt {
+width: 100px;
+line-height: 27px;
+color: #666;
+margin-right: 5px;
+float: left;
+text-align: right;
+}
+.Apply-con dd {
+width: 500px;
+float: left;
+line-height: 27px;
+}
+.recharge {
+width: 750px;
+padding-left: 30px;
+}
+.Apply-con {
+margin-top: 20px;
+}
+.Apply-con dl {
+display: inline-block;
+margin-top: 10px;
+height: 29px;
+overflow: hidden;height: 57px;
+}
+.Apply-con .inp-money {
+width: 73px;
+vertical-align: middle;
+margin-right: 5px;
+}
+.Apply-con .inp-money, .Apply-con .input-txt {
+height: 27px;
+line-height: 25px;
+padding: 0 3px;
+border-left: 1px solid #C2C2C2;
+border-top: 1px solid #C2C2C2;
+border-right: 1px solid #E1E1E1;
+border-bottom: 1px solid #E1E1E1;
+font-size: 14px;
+vertical-align: middle;
+display: block;
+float: left;
+}
+</style>
+<form id="toPayForm" name="toPayForm" action="{WEB_PATH}/member/cart/addmoneydk" method="post">
+<div class="R-content">
+	<div class="subMenu">
+                <a href="{WEB_PATH}/member/home/userrecharge" title="网银充值" class="current2">网银充值</a>
+                <a href="{WEB_PATH}/member/home/userrechargedk" title="点卡充值" class="current">点卡充值</a>
+    </div>
+	<div class="select">
+		<b class="gray01">请您选择点卡面值金额</b>
+		<ul id="ulMoneyList">
+			<li class="selected" style="margin-left:0;">
+			<input  type="radio" id="rd10" name="money" value="10" checked="checked"> 
+			<label for="rd10">充值 <strong>￥</strong>
+			<b>10</b>
+			</label>
+			</li>
+			<li>
+			<input type="radio" name="money" value="30" id="rd30">
+			<label for="rd30">充值 <strong>￥</strong><b>30</b></label>
+			</li>
+			<li>
+			<input type="radio" name="money" value="50" id="rd50"> 
+			<label for="rd50">充值 <strong>￥</strong><b>50</b></label>
+			</li>
+			<li>
+			<input type="radio" name="money" value="100" id="rd100"> 
+			<label for="rd100">充值 <strong>￥</strong><b>100</b></label>
+			</li>
+			<li class="custom">
+			<input type="radio" value="0" name="money" id="rdOther">
+			<label for="rdOther">其它金额</label>
+			<input value="" id="txtOtherMoney" type="text" class="enter" maxlength="7" />
+			</li>
+		</ul>
+	</div>
+	
+<div class="charge_money_list">
+	
+	
+           <style>
+				.yeepay_bank img{ border:1px solid #eee; padding:2px; width:130px; height:35px; float:left; margin-right:20px;}
+				.yeepay_bank input{ float:left;}
+			</style>
+
+
+		<p class="much">应付金额：<span class="yf"><strong>￥</strong><span id="Money">10</span></span></p>
+		<h6>			
+				<input type="hidden" id="hidPayName" name="payName" value="">
+				<input type="hidden" id="hidPayBank" name="payBank" value="0">
+				<input type="hidden" id="hidMoney" name="money" value="10">
+
+		
+		</h6>
+
+		<ul style="display:none">		
+          {wc:loop $paylist  $pay}
+		{wc:if $pay['pay_id'] == 10}			
+			<li>
+				<input checked="checked" type="hidden" value="{wc:$pay['pay_id']}" name="account">               
+                <img style="border:1px solid #eee; padding:1px; margin-right:20px;" height="35px" width="100px" src="{G_UPLOAD_PATH}/{wc:$pay['pay_thumb']}">
+                
+            </li>
+           {wc:if:end}
+{wc:loop:end}             
+		</ul>
+		<div class="recharge-card">
+			
+            	<ul>
+					<li><label>卡类型：</label>
+					<select name="cardType" style="color: #000; width:200px;height:40px"    >
+						<option value="1">1 – QQ卡</option>
+						<option value="2">2 – 盛大卡</option>
+						<option value="3">3 – 骏网卡</option>
+						<option value="4">4 – 亿卡</option>
+						<option value="5">5 - 完美一卡通</option>
+						<option value="6">6 - 搜狐一卡通</option>
+						<option value="7">7 - 征途游戏卡</option>
+						<option value="8">8 - 久游一卡通</option>
+						<option value="9">9 - 网易一卡通</option>
+						<option value="10">10– 魔兽卡</option>
+						<option value="11">11- 联华卡</option>
+						<option value="12">12- 电信充值卡</option>
+						<option value="13">13- 神州行充值卡</option>
+						<option value="14">14- 联通充值卡</option>
+						<option value="15">15- 金山一卡通</option>
+						<option value="16">16- 光宇一卡通</option>
+						 </select>
+					</li>
+					<li class="z-error"></li>
+					<li><label>省份：</label><select name="restrict" style="color: #000
+					;width:200px;height:40px">
+						<option value="0" selected>全国通用</option>
+						<option value="9">四川省</option>
+						<option value="10">重庆市</option>
+						<option value="11">贵州省</option>
+						<option value="12">云南省</option>
+						<option value="13">西藏自治区</option>
+						<option value="14">北京市</option>
+						<option value="15">天津市</option>
+						<option value="16">河北省</option>
+						<option value="17">山西省</option>
+						<option value="18">内蒙古自治区</option>
+						<option value="19">辽宁省</option>
+						<option value="20">吉林省</option>
+						<option value="21">黑龙江省</option>
+						<option value="22">上海市</option>
+						<option value="23">江苏省</option>
+						<option value="24">浙江省</option>
+						<option value="25">安徽省</option>
+						<option value="26">福建省</option>
+						<option value="27">江西省</option>
+						<option value="28">河南省</option>
+						<option value="29">广东省</option>
+						<option value="30">湖北省</option>
+						<option value="31">湖南省</option>
+						<option value="32">广西壮族自治区</option>
+						<option value="33">海南省</option>
+						<option value="34">陕西省</option>
+						<option value="35">甘肃省</option>
+						<option value="36">山东省</option>
+						<option value="37">青海省</option>
+						<option value="38">宁夏回族自治区</option>
+						<option value="39">维吾自治区</option>
+						<option value="40">香港特别行政区</option>
+					  </select>&nbsp;&nbsp;&nbsp;(神州行充值卡请选择使用地区)  
+					  </li>
+                    <li class="z-error"></li>
+                	<li><label>充值卡号：</label><input style="color: rgb(187, 187, 187);" id="txtCZMoney" value=""  type="text" name="card_number" class="inp-money" /></li>
+                    <li class="z-error"></li>
+                    <li><label>充值密码：</label><input style="color: rgb(187, 187, 187);" id="txtCZPwd" value=""  type="text" name="card_password" class="inp-money" /></li>
+                    <li class="z-error"></li>
+                    <li id="liMoney" class="mat10">&nbsp;</li>
+                    <li><input id="submit_ok" class="bluebut imm" type="submit" name="submit" value="立即充值" title="立即充值">
+                </ul>
+			</form>
+            </div>
+</div>
+		<div id="payAltBox" style="display:none;">
+			<div class="prompt_box">
+				<p class="pic"><em></em>请您在新开的页面上完成支付！</p>
+				<p class="ts">付款完成之前，请不要关闭本窗口！<br>完成付款后跟据您的个人情况完成此操作！</p>
+				<ul>
+					<li><a href="{WEB_PATH}/member/home/userbalance" class="look" title="查看充值记录">查看充值记录 </a></li>
+					<li><a href="javascript:gotoClick();" class="look" id="btnReSelect" title="重选支付方式">重选支付方式</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>  
+</div>
+
+
+
+<script>
+$(function(){
+		
+	$("#submit_ok").click(function(){	
+		if(!this.cc){
+			this.cc = 1;		
+			return true;
+		}else{		
+			return false;
+		}		
+		return false;
+	});
+	
+	$(".yeepay_click li>img").click(function(){			
+			$(this).prev().attr("checked",'checked');
+	});
+
+});
+</script>
+{wc:templates "index","footer"}

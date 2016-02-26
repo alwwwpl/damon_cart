@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items_setting>
+  <groups>
+    <title>General</title>
+    <item>
+      <text>Background body</text>
+      <name>g_body_background</name>
+      <class>body</class>
+      <value>ffffff</value>
+      <style>background-color</style>
+    </item>
+    <item>
+      <text>Text Color Normal</text>
+      <name>g_color_text_normal</name>
+      <class>body, a</class>
+      <value>8c8c8c</value>
+      <style>color</style>
+    </item>
+    <item>
+      <text>Text Color Hover</text>
+      <name>g_color_text_hover</name>
+      <class>a:hover, a:focus, .rating .fa-stack i, .btn-cart:hover, .boss-blog-featured .block-content .box-article .article-name a:hover, ul.box-category &amp;gt; li.opencate &amp;gt; a, ul.box-category &amp;gt; li a.active, .tab-content #review .author, .cart-total td.right.last, #language a.active, #currency a.active, #top-links ul li a:hover, #top-links ul li a:hover span, .mega-menu &amp;gt; ul.nav &amp;gt; li .dropdown .menu-row ul.column li a:hover, .btn-cart:hover i, #language a:hover, #currency a:hover, .box-content li.active a.list-group-item, .box-content a.list-group-item:hover, .btn-info:hover, .btn-info:active, .btn-info.active, .post-by span, .block .block-content ol &amp;gt; li.item a.article-title:hover, .comment-by span, #cart .minicart_total tr td.text-right.last</class>
+      <value>fd4f4e</value>
+      <style>color</style>
+    </item>
+    <item>
+      <text>Text Title</text>
+      <name>g_color_title</name>
+      <class>.boss_homefilter_tabs .box-content h3, .boss-custom-pro h3, .boss-static-content-welcome .title h3, footer h3, h1, h2, h3, .bt-box .box-heading, .tab-header</class>
+      <value>505050</value>
+      <style>color</style>
+    </item>
+  </groups>
+  <groups>
+    <title>Button</title>
+    <item>
+      <text>Button color 1</text>
+      <name>g_button_background_1</name>
+      <class>#cart .btn-dropdown-cart, .btn, .top_right .contact i, .tp-caption.medium_white, .boss-static-content2 .block_button span, .boss-static-content, .footer-social ul li a, .bt-box .box-content .boss-alphabet ul li a:hover, table.table thead, .wishlist-info thead, .cart-info thead, .checkout-product thead, #collapse-checkout-confirm thead, .compare-info thead td, .compare-info thead tr td:first-child</class>
+      <value>fd4f4e</value>
+      <style>background-color</style>
+    </item>
+    <item>
+      <text>Button color 2</text>
+      <name>g_button_background_2</name>
+      <class>.btn-shopping</class>
+      <value>222222</value>
+      <style>background-color</style>
+    </item>
+  </groups>
+  <groups>
+    <title>Menu</title>
+    <item>
+      <text>Menu Background</text>
+      <name>m_background</name>
+      <class>.boss_menu</class>
+      <value>ffffff</value>
+      <style>background-color</style>
+    </item>
+    <item>
+      <text>Text Color Normal</text>
+      <name>m_text_normal</name>
+      <class>.mega-menu &amp;gt; ul.nav &amp;gt; li &amp;gt; a</class>
+      <value>4d4d4d</value>
+      <style>color</style>
+    </item>
+    <item>
+      <text>Text Color Hover </text>
+      <name>m_text_hover</name>
+      <class>.mega-menu &amp;gt; ul.nav &amp;gt; li:hover &amp;gt; a</class>
+      <value>fd4f4e</value>
+      <style>color</style>
+    </item>
+  </groups>
+  <groups>
+    <title>Product</title>
+    <item>
+      <text>Product Name</text>
+      <name>p_name</name>
+      <class>.name a</class>
+      <value>464646</value>
+      <style>color</style>
+    </item>
+    <item>
+      <text>Product Name Hover</text>
+      <name>p_name_hover</name>
+      <class>.name a:hover</class>
+      <value>fd4f4e</value>
+      <style>color</style>
+    </item>
+    <item>
+      <text>Price </text>
+      <name>p_price</name>
+      <class>.price</class>
+      <value>2c2c2c</value>
+      <style>color</style>
+    </item>
+    <item>
+      <text>Button Add to Cart</text>
+      <name>p_button_cart_text</name>
+      <class>.btn-cart</class>
+      <value>505050</value>
+      <style>color</style>
+    </item>
+  </groups>
+  <customs/>
+</items_setting>

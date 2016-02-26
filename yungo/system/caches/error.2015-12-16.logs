@@ -1,0 +1,4 @@
+[16-Dec-2015 04:13:01 Asia/Shanghai] PHP Parse error:  syntax error, unexpected '<<' (T_SL), expecting ')' in /var/www/damon_cart/yungo/system/config/domain.inc.php on line 4
+[16-Dec-2015 06:47:03 Asia/Shanghai] PHP Parse error:  syntax error, unexpected '<<' (T_SL), expecting ')' in /var/www/damon_cart/yungo/system/config/domain.inc.php on line 4
+[16-Dec-2015 13:38:40 Asia/Shanghai] PHP Parse error:  syntax error, unexpected '<<' (T_SL), expecting ')' in /var/www/damon_cart/yungo/system/config/domain.inc.php on line 4
+[16-Dec-2015 14:11:41 Asia/Shanghai] PHP Parse error:  syntax error, unexpected '<<' (T_SL), expecting ')' in /var/www/damon_cart/yungo/system/config/domain.inc.php on line 4

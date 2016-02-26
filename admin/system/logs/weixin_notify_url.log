@@ -1,0 +1,4587 @@
+2015-09-24 22:13:12 - 【进入回调程序】:
+
+2015-09-24 22:13:12 - 【签名验证失败】
+
+2015-09-24 22:13:12 - 【接收到的notify通知】:
+
+
+2015-09-24 22:13:12 - 【退出回调程序】:
+
+2015-10-09 17:33:30 - 【进入回调程序】:
+
+2015-10-09 17:33:30 - 【签名验证成功】
+
+2015-10-09 17:33:30 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 17:33:30 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 17:33:32 - 【退出回调程序】:
+
+2015-10-09 17:33:47 - 【进入回调程序】:
+
+2015-10-09 17:33:47 - 【签名验证成功】
+
+2015-10-09 17:33:47 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 17:33:47 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 17:33:47 - 50 Order Has bean Payed.
+
+2015-10-09 17:33:47 - 【退出回调程序】:
+
+2015-10-09 17:34:04 - 【进入回调程序】:
+
+2015-10-09 17:34:04 - 【签名验证成功】
+
+2015-10-09 17:34:04 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 17:34:04 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 17:34:04 - 50 Order Has bean Payed.
+
+2015-10-09 17:34:04 - 【退出回调程序】:
+
+2015-10-09 17:34:36 - 【进入回调程序】:
+
+2015-10-09 17:34:36 - 【签名验证成功】
+
+2015-10-09 17:34:36 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 17:34:36 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 17:34:36 - 50 Order Has bean Payed.
+
+2015-10-09 17:34:36 - 【退出回调程序】:
+
+2015-10-09 17:37:40 - 【进入回调程序】:
+
+2015-10-09 17:37:40 - 【签名验证成功】
+
+2015-10-09 17:37:40 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 17:37:40 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 17:37:40 - 50 Order Has bean Payed.
+
+2015-10-09 17:37:40 - 【退出回调程序】:
+
+2015-10-09 18:07:43 - 【进入回调程序】:
+
+2015-10-09 18:07:43 - 【签名验证成功】
+
+2015-10-09 18:07:43 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 18:07:43 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 18:07:43 - 50 Order Has bean Payed.
+
+2015-10-09 18:07:43 - 【退出回调程序】:
+
+2015-10-09 18:37:45 - 【进入回调程序】:
+
+2015-10-09 18:37:45 - 【签名验证成功】
+
+2015-10-09 18:37:45 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 18:37:45 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 18:37:45 - 50 Order Has bean Payed.
+
+2015-10-09 18:37:45 - 【退出回调程序】:
+
+2015-10-09 19:07:46 - 【进入回调程序】:
+
+2015-10-09 19:07:46 - 【签名验证成功】
+
+2015-10-09 19:07:46 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 19:07:46 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 19:07:46 - 50 Order Has bean Payed.
+
+2015-10-09 19:07:46 - 【退出回调程序】:
+
+2015-10-09 19:37:48 - 【进入回调程序】:
+
+2015-10-09 19:37:48 - 【签名验证成功】
+
+2015-10-09 19:37:48 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 19:37:48 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 19:37:48 - 50 Order Has bean Payed.
+
+2015-10-09 19:37:48 - 【退出回调程序】:
+
+2015-10-09 20:37:50 - 【进入回调程序】:
+
+2015-10-09 20:37:50 - 【签名验证成功】
+
+2015-10-09 20:37:50 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 20:37:50 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[wnrbdviqhxn4d0vb0pbhmq2fhuuqgy65]]></nonce_str>
+<openid><![CDATA[ok6S_s4s6GrsnG1Kjc6G2OUVbdKk]]></openid>
+<out_trade_no><![CDATA[50]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E11381AA01EEDEFEF7A5FE821ACD8F4E]]></sign>
+<time_end><![CDATA[20151009173329]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1007870342201510091140859899]]></transaction_id>
+</xml>
+
+2015-10-09 20:37:50 - 50 Order Has bean Payed.
+
+2015-10-09 20:37:50 - 【退出回调程序】:
+
+2015-10-10 11:54:34 - 【进入回调程序】:
+
+2015-10-10 11:54:34 - 【签名验证成功】
+
+2015-10-10 11:54:34 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 11:54:34 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 11:54:39 - 【退出回调程序】:
+
+2015-10-10 11:54:51 - 【进入回调程序】:
+
+2015-10-10 11:54:51 - 【签名验证成功】
+
+2015-10-10 11:54:51 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 11:54:51 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 11:54:51 - 54 Order Has bean Payed.
+
+2015-10-10 11:54:51 - 【退出回调程序】:
+
+2015-10-10 11:55:08 - 【进入回调程序】:
+
+2015-10-10 11:55:08 - 【签名验证成功】
+
+2015-10-10 11:55:08 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 11:55:08 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 11:55:08 - 54 Order Has bean Payed.
+
+2015-10-10 11:55:08 - 【退出回调程序】:
+
+2015-10-10 11:55:41 - 【进入回调程序】:
+
+2015-10-10 11:55:41 - 【签名验证成功】
+
+2015-10-10 11:55:41 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 11:55:41 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 11:55:41 - 54 Order Has bean Payed.
+
+2015-10-10 11:55:41 - 【退出回调程序】:
+
+2015-10-10 11:58:43 - 【进入回调程序】:
+
+2015-10-10 11:58:43 - 【签名验证成功】
+
+2015-10-10 11:58:43 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 11:58:43 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 11:58:43 - 54 Order Has bean Payed.
+
+2015-10-10 11:58:43 - 【退出回调程序】:
+
+2015-10-10 12:28:46 - 【进入回调程序】:
+
+2015-10-10 12:28:46 - 【签名验证成功】
+
+2015-10-10 12:28:46 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 12:28:46 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 12:28:46 - 54 Order Has bean Payed.
+
+2015-10-10 12:28:46 - 【退出回调程序】:
+
+2015-10-10 12:58:48 - 【进入回调程序】:
+
+2015-10-10 12:58:48 - 【签名验证成功】
+
+2015-10-10 12:58:48 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 12:58:48 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 12:58:48 - 54 Order Has bean Payed.
+
+2015-10-10 12:58:48 - 【退出回调程序】:
+
+2015-10-10 13:28:50 - 【进入回调程序】:
+
+2015-10-10 13:28:50 - 【签名验证成功】
+
+2015-10-10 13:28:50 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 13:28:50 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 13:28:50 - 54 Order Has bean Payed.
+
+2015-10-10 13:28:50 - 【退出回调程序】:
+
+2015-10-10 13:58:52 - 【进入回调程序】:
+
+2015-10-10 13:58:52 - 【签名验证成功】
+
+2015-10-10 13:58:52 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 13:58:52 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 13:58:52 - 54 Order Has bean Payed.
+
+2015-10-10 13:58:52 - 【退出回调程序】:
+
+2015-10-10 14:58:55 - 【进入回调程序】:
+
+2015-10-10 14:58:55 - 【签名验证成功】
+
+2015-10-10 14:58:55 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 14:58:55 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CCB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[bdhrxwqmb0ra66p4o1qkj57gvvscwqit]]></nonce_str>
+<openid><![CDATA[ok6S_s_Svb30eyPAkkGX3VMwDGUU]]></openid>
+<out_trade_no><![CDATA[54]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[797345F37FE63E3F11D53252A1F17BEF]]></sign>
+<time_end><![CDATA[20151010115434]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1008820342201510101147761796]]></transaction_id>
+</xml>
+
+2015-10-10 14:58:55 - 54 Order Has bean Payed.
+
+2015-10-10 14:58:55 - 【退出回调程序】:
+
+2015-10-13 14:45:13 - 【进入回调程序】:
+
+2015-10-13 14:45:14 - 【签名验证成功】
+
+2015-10-13 14:45:14 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 14:45:14 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 14:45:16 - 【退出回调程序】:
+
+2015-10-13 14:45:29 - 【进入回调程序】:
+
+2015-10-13 14:45:29 - 【签名验证成功】
+
+2015-10-13 14:45:29 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 14:45:29 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 14:45:29 - 67 Order Has bean Payed.
+
+2015-10-13 14:45:29 - 【退出回调程序】:
+
+2015-10-13 14:45:45 - 【进入回调程序】:
+
+2015-10-13 14:45:45 - 【签名验证成功】
+
+2015-10-13 14:45:45 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 14:45:45 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 14:45:45 - 67 Order Has bean Payed.
+
+2015-10-13 14:45:45 - 【退出回调程序】:
+
+2015-10-13 14:46:17 - 【进入回调程序】:
+
+2015-10-13 14:46:17 - 【签名验证成功】
+
+2015-10-13 14:46:17 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 14:46:17 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 14:46:17 - 67 Order Has bean Payed.
+
+2015-10-13 14:46:17 - 【退出回调程序】:
+
+2015-10-13 14:46:47 - 【进入回调程序】:
+
+2015-10-13 14:46:47 - 【签名验证成功】
+
+2015-10-13 14:46:47 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 14:46:47 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 14:46:50 - 【退出回调程序】:
+
+2015-10-13 14:47:07 - 【进入回调程序】:
+
+2015-10-13 14:47:07 - 【签名验证成功】
+
+2015-10-13 14:47:07 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 14:47:07 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 14:47:07 - 68 Order Has bean Payed.
+
+2015-10-13 14:47:07 - 【退出回调程序】:
+
+2015-10-13 14:47:25 - 【进入回调程序】:
+
+2015-10-13 14:47:25 - 【签名验证成功】
+
+2015-10-13 14:47:25 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 14:47:25 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 14:47:25 - 68 Order Has bean Payed.
+
+2015-10-13 14:47:25 - 【退出回调程序】:
+
+2015-10-13 14:47:55 - 【进入回调程序】:
+
+2015-10-13 14:47:55 - 【签名验证成功】
+
+2015-10-13 14:47:55 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 14:47:55 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 14:47:55 - 68 Order Has bean Payed.
+
+2015-10-13 14:47:55 - 【退出回调程序】:
+
+2015-10-13 14:49:18 - 【进入回调程序】:
+
+2015-10-13 14:49:18 - 【签名验证成功】
+
+2015-10-13 14:49:18 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 14:49:18 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 14:49:18 - 67 Order Has bean Payed.
+
+2015-10-13 14:49:18 - 【退出回调程序】:
+
+2015-10-13 14:50:58 - 【进入回调程序】:
+
+2015-10-13 14:50:58 - 【签名验证成功】
+
+2015-10-13 14:50:58 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 14:50:58 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 14:50:58 - 68 Order Has bean Payed.
+
+2015-10-13 14:50:58 - 【退出回调程序】:
+
+2015-10-13 15:19:20 - 【进入回调程序】:
+
+2015-10-13 15:19:20 - 【签名验证成功】
+
+2015-10-13 15:19:20 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 15:19:20 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 15:19:20 - 67 Order Has bean Payed.
+
+2015-10-13 15:19:20 - 【退出回调程序】:
+
+2015-10-13 15:20:59 - 【进入回调程序】:
+
+2015-10-13 15:20:59 - 【签名验证成功】
+
+2015-10-13 15:20:59 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 15:20:59 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 15:20:59 - 68 Order Has bean Payed.
+
+2015-10-13 15:20:59 - 【退出回调程序】:
+
+2015-10-13 15:49:23 - 【进入回调程序】:
+
+2015-10-13 15:49:23 - 【签名验证成功】
+
+2015-10-13 15:49:23 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 15:49:23 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 15:49:23 - 67 Order Has bean Payed.
+
+2015-10-13 15:49:23 - 【退出回调程序】:
+
+2015-10-13 15:51:00 - 【进入回调程序】:
+
+2015-10-13 15:51:00 - 【签名验证成功】
+
+2015-10-13 15:51:00 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 15:51:00 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 15:51:00 - 68 Order Has bean Payed.
+
+2015-10-13 15:51:00 - 【退出回调程序】:
+
+2015-10-13 16:19:25 - 【进入回调程序】:
+
+2015-10-13 16:19:25 - 【签名验证成功】
+
+2015-10-13 16:19:25 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 16:19:25 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 16:19:25 - 67 Order Has bean Payed.
+
+2015-10-13 16:19:25 - 【退出回调程序】:
+
+2015-10-13 16:21:01 - 【进入回调程序】:
+
+2015-10-13 16:21:01 - 【签名验证成功】
+
+2015-10-13 16:21:01 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 16:21:01 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 16:21:01 - 68 Order Has bean Payed.
+
+2015-10-13 16:21:01 - 【退出回调程序】:
+
+2015-10-13 16:49:27 - 【进入回调程序】:
+
+2015-10-13 16:49:27 - 【签名验证成功】
+
+2015-10-13 16:49:27 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 16:49:27 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 16:49:27 - 67 Order Has bean Payed.
+
+2015-10-13 16:49:27 - 【退出回调程序】:
+
+2015-10-13 16:51:03 - 【进入回调程序】:
+
+2015-10-13 16:51:03 - 【签名验证成功】
+
+2015-10-13 16:51:03 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 16:51:03 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 16:51:03 - 68 Order Has bean Payed.
+
+2015-10-13 16:51:03 - 【退出回调程序】:
+
+2015-10-13 17:49:29 - 【进入回调程序】:
+
+2015-10-13 17:49:29 - 【签名验证成功】
+
+2015-10-13 17:49:29 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 17:49:29 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[fn8l9edmj2bhdgsa1igdiedy0oj2e0n5]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[67]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B9C985FBAEBBF744647A8A220D38EDA9]]></sign>
+<time_end><![CDATA[20151013144511]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182367736]]></transaction_id>
+</xml>
+
+2015-10-13 17:49:29 - 67 Order Has bean Payed.
+
+2015-10-13 17:49:29 - 【退出回调程序】:
+
+2015-10-13 17:51:04 - 【进入回调程序】:
+
+2015-10-13 17:51:04 - 【签名验证成功】
+
+2015-10-13 17:51:04 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 17:51:04 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vt9lcvh2r78mg1g26upvfl3zkcxiewy7]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[68]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[BEC0C9F261ECBD83B75A7E75FC042C94]]></sign>
+<time_end><![CDATA[20151013144647]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510131182393862]]></transaction_id>
+</xml>
+
+2015-10-13 17:51:04 - 68 Order Has bean Payed.
+
+2015-10-13 17:51:04 - 【退出回调程序】:
+
+2015-10-14 10:35:46 - 【进入回调程序】:
+
+2015-10-14 10:35:46 - 【签名验证成功】
+
+2015-10-14 10:35:46 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 10:35:46 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 10:35:46 - 77 Order Has bean Payed.
+
+2015-10-14 10:35:46 - 【退出回调程序】:
+
+2015-10-14 10:36:01 - 【进入回调程序】:
+
+2015-10-14 10:36:01 - 【签名验证成功】
+
+2015-10-14 10:36:01 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 10:36:01 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 10:36:01 - 77 Order Has bean Payed.
+
+2015-10-14 10:36:01 - 【退出回调程序】:
+
+2015-10-14 10:36:18 - 【进入回调程序】:
+
+2015-10-14 10:36:18 - 【签名验证成功】
+
+2015-10-14 10:36:18 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 10:36:18 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 10:36:18 - 77 Order Has bean Payed.
+
+2015-10-14 10:36:18 - 【退出回调程序】:
+
+2015-10-14 10:36:50 - 【进入回调程序】:
+
+2015-10-14 10:36:50 - 【签名验证成功】
+
+2015-10-14 10:36:50 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 10:36:50 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 10:36:50 - 77 Order Has bean Payed.
+
+2015-10-14 10:36:50 - 【退出回调程序】:
+
+2015-10-14 10:39:51 - 【进入回调程序】:
+
+2015-10-14 10:39:51 - 【签名验证成功】
+
+2015-10-14 10:39:51 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 10:39:51 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 10:39:51 - 77 Order Has bean Payed.
+
+2015-10-14 10:39:51 - 【退出回调程序】:
+
+2015-10-14 10:52:09 - 【进入回调程序】:
+
+2015-10-14 10:52:09 - 【签名验证成功】
+
+2015-10-14 10:52:09 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 10:52:09 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 10:52:09 - 78 Order Has bean Payed.
+
+2015-10-14 10:52:09 - 【退出回调程序】:
+
+2015-10-14 10:52:26 - 【进入回调程序】:
+
+2015-10-14 10:52:26 - 【签名验证成功】
+
+2015-10-14 10:52:26 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 10:52:26 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 10:52:26 - 78 Order Has bean Payed.
+
+2015-10-14 10:52:26 - 【退出回调程序】:
+
+2015-10-14 10:52:43 - 【进入回调程序】:
+
+2015-10-14 10:52:43 - 【签名验证成功】
+
+2015-10-14 10:52:43 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 10:52:43 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 10:52:43 - 78 Order Has bean Payed.
+
+2015-10-14 10:52:43 - 【退出回调程序】:
+
+2015-10-14 10:53:17 - 【进入回调程序】:
+
+2015-10-14 10:53:17 - 【签名验证成功】
+
+2015-10-14 10:53:17 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 10:53:17 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 10:53:17 - 78 Order Has bean Payed.
+
+2015-10-14 10:53:17 - 【退出回调程序】:
+
+2015-10-14 10:56:17 - 【进入回调程序】:
+
+2015-10-14 10:56:17 - 【签名验证成功】
+
+2015-10-14 10:56:17 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 10:56:17 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 10:56:17 - 78 Order Has bean Payed.
+
+2015-10-14 10:56:17 - 【退出回调程序】:
+
+2015-10-14 10:59:02 - 【进入回调程序】:
+
+2015-10-14 10:59:02 - 【签名验证成功】
+
+2015-10-14 10:59:02 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 10:59:02 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 10:59:04 - 【退出回调程序】:
+
+2015-10-14 10:59:14 - 【进入回调程序】:
+
+2015-10-14 10:59:14 - 【签名验证成功】
+
+2015-10-14 10:59:14 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 10:59:14 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 10:59:14 - 79 Order Has bean Payed.
+
+2015-10-14 10:59:14 - 【退出回调程序】:
+
+2015-10-14 10:59:30 - 【进入回调程序】:
+
+2015-10-14 10:59:30 - 【签名验证成功】
+
+2015-10-14 10:59:30 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 10:59:30 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 10:59:30 - 79 Order Has bean Payed.
+
+2015-10-14 10:59:30 - 【退出回调程序】:
+
+2015-10-14 11:00:02 - 【进入回调程序】:
+
+2015-10-14 11:00:02 - 【签名验证成功】
+
+2015-10-14 11:00:02 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 11:00:02 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 11:00:02 - 79 Order Has bean Payed.
+
+2015-10-14 11:00:02 - 【退出回调程序】:
+
+2015-10-14 11:03:04 - 【进入回调程序】:
+
+2015-10-14 11:03:04 - 【签名验证成功】
+
+2015-10-14 11:03:04 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 11:03:04 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 11:03:04 - 79 Order Has bean Payed.
+
+2015-10-14 11:03:04 - 【退出回调程序】:
+
+2015-10-14 11:09:54 - 【进入回调程序】:
+
+2015-10-14 11:09:54 - 【签名验证成功】
+
+2015-10-14 11:09:54 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 11:09:54 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 11:09:55 - 【退出回调程序】:
+
+2015-10-14 11:26:20 - 【进入回调程序】:
+
+2015-10-14 11:26:20 - 【签名验证成功】
+
+2015-10-14 11:26:20 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 11:26:20 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 11:26:21 - 【退出回调程序】:
+
+2015-10-14 11:33:06 - 【进入回调程序】:
+
+2015-10-14 11:33:06 - 【签名验证成功】
+
+2015-10-14 11:33:06 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 11:33:06 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 11:33:06 - 79 Order Has bean Payed.
+
+2015-10-14 11:33:06 - 【退出回调程序】:
+
+2015-10-14 11:39:57 - 【进入回调程序】:
+
+2015-10-14 11:39:57 - 【签名验证成功】
+
+2015-10-14 11:39:57 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 11:39:57 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 11:39:57 - 77 Order Has bean Payed.
+
+2015-10-14 11:39:57 - 【退出回调程序】:
+
+2015-10-14 11:56:24 - 【进入回调程序】:
+
+2015-10-14 11:56:24 - 【签名验证成功】
+
+2015-10-14 11:56:24 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 11:56:24 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 11:56:24 - 78 Order Has bean Payed.
+
+2015-10-14 11:56:24 - 【退出回调程序】:
+
+2015-10-14 12:03:08 - 【进入回调程序】:
+
+2015-10-14 12:03:08 - 【签名验证成功】
+
+2015-10-14 12:03:08 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 12:03:08 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 12:03:08 - 79 Order Has bean Payed.
+
+2015-10-14 12:03:08 - 【退出回调程序】:
+
+2015-10-14 12:09:59 - 【进入回调程序】:
+
+2015-10-14 12:09:59 - 【签名验证成功】
+
+2015-10-14 12:09:59 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 12:09:59 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 12:09:59 - 77 Order Has bean Payed.
+
+2015-10-14 12:09:59 - 【退出回调程序】:
+
+2015-10-14 12:26:25 - 【进入回调程序】:
+
+2015-10-14 12:26:25 - 【签名验证成功】
+
+2015-10-14 12:26:25 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 12:26:25 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 12:26:25 - 78 Order Has bean Payed.
+
+2015-10-14 12:26:25 - 【退出回调程序】:
+
+2015-10-14 12:33:11 - 【进入回调程序】:
+
+2015-10-14 12:33:11 - 【签名验证成功】
+
+2015-10-14 12:33:11 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 12:33:11 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 12:33:11 - 79 Order Has bean Payed.
+
+2015-10-14 12:33:11 - 【退出回调程序】:
+
+2015-10-14 12:40:02 - 【进入回调程序】:
+
+2015-10-14 12:40:02 - 【签名验证成功】
+
+2015-10-14 12:40:02 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 12:40:02 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 12:40:02 - 77 Order Has bean Payed.
+
+2015-10-14 12:40:02 - 【退出回调程序】:
+
+2015-10-14 12:56:28 - 【进入回调程序】:
+
+2015-10-14 12:56:28 - 【签名验证成功】
+
+2015-10-14 12:56:28 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 12:56:28 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 12:56:28 - 78 Order Has bean Payed.
+
+2015-10-14 12:56:28 - 【退出回调程序】:
+
+2015-10-14 13:03:13 - 【进入回调程序】:
+
+2015-10-14 13:03:13 - 【签名验证成功】
+
+2015-10-14 13:03:13 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 13:03:13 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 13:03:13 - 79 Order Has bean Payed.
+
+2015-10-14 13:03:13 - 【退出回调程序】:
+
+2015-10-14 13:40:03 - 【进入回调程序】:
+
+2015-10-14 13:40:03 - 【签名验证成功】
+
+2015-10-14 13:40:03 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 13:40:03 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[qz6i3zpc0bnc6qd3qtjoqkvou6z2nenl]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[77]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C8A3DBEC7BE0AED8BC2C4D176E12744B]]></sign>
+<time_end><![CDATA[20151014103546]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190052734]]></transaction_id>
+</xml>
+
+2015-10-14 13:40:03 - 77 Order Has bean Payed.
+
+2015-10-14 13:40:03 - 【退出回调程序】:
+
+2015-10-14 13:56:30 - 【进入回调程序】:
+
+2015-10-14 13:56:30 - 【签名验证成功】
+
+2015-10-14 13:56:30 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 13:56:30 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[70d2j58xnjn97xptzbn4m3ztn6eo2zvd]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[78]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA772D4878F4A0C2CF030353F0977E7B]]></sign>
+<time_end><![CDATA[20151014105209]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190247961]]></transaction_id>
+</xml>
+
+2015-10-14 13:56:30 - 78 Order Has bean Payed.
+
+2015-10-14 13:56:30 - 【退出回调程序】:
+
+2015-10-14 14:03:16 - 【进入回调程序】:
+
+2015-10-14 14:03:16 - 【签名验证成功】
+
+2015-10-14 14:03:16 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 14:03:16 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[zqgmepovt1gq2wgkrjpa9pvvkjlcoe56]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[79]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[360A38B69ADF7934FB05E1578089C247]]></sign>
+<time_end><![CDATA[20151014105902]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510141190330592]]></transaction_id>
+</xml>
+
+2015-10-14 14:03:16 - 79 Order Has bean Payed.
+
+2015-10-14 14:03:16 - 【退出回调程序】:
+
+2015-10-15 21:53:48 - 【进入回调程序】:
+
+2015-10-15 21:53:48 - 【签名验证成功】
+
+2015-10-15 21:53:48 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 21:53:48 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 21:53:49 - 【退出回调程序】:
+
+2015-10-15 21:54:06 - 【进入回调程序】:
+
+2015-10-15 21:54:06 - 【签名验证成功】
+
+2015-10-15 21:54:06 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 21:54:06 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 21:54:06 - 90 Order Has bean Payed.
+
+2015-10-15 21:54:06 - 【退出回调程序】:
+
+2015-10-15 21:54:23 - 【进入回调程序】:
+
+2015-10-15 21:54:23 - 【签名验证成功】
+
+2015-10-15 21:54:23 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 21:54:23 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 21:54:23 - 90 Order Has bean Payed.
+
+2015-10-15 21:54:23 - 【退出回调程序】:
+
+2015-10-15 21:54:55 - 【进入回调程序】:
+
+2015-10-15 21:54:55 - 【签名验证成功】
+
+2015-10-15 21:54:55 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 21:54:55 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 21:54:55 - 90 Order Has bean Payed.
+
+2015-10-15 21:54:55 - 【退出回调程序】:
+
+2015-10-15 21:57:58 - 【进入回调程序】:
+
+2015-10-15 21:57:58 - 【签名验证成功】
+
+2015-10-15 21:57:58 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 21:57:58 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 21:57:58 - 90 Order Has bean Payed.
+
+2015-10-15 21:57:58 - 【退出回调程序】:
+
+2015-10-15 22:28:00 - 【进入回调程序】:
+
+2015-10-15 22:28:00 - 【签名验证成功】
+
+2015-10-15 22:28:00 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 22:28:00 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 22:28:00 - 90 Order Has bean Payed.
+
+2015-10-15 22:28:00 - 【退出回调程序】:
+
+2015-10-15 22:58:02 - 【进入回调程序】:
+
+2015-10-15 22:58:02 - 【签名验证成功】
+
+2015-10-15 22:58:02 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 22:58:02 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 22:58:02 - 90 Order Has bean Payed.
+
+2015-10-15 22:58:02 - 【退出回调程序】:
+
+2015-10-15 23:28:04 - 【进入回调程序】:
+
+2015-10-15 23:28:04 - 【签名验证成功】
+
+2015-10-15 23:28:04 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 23:28:04 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 23:28:04 - 90 Order Has bean Payed.
+
+2015-10-15 23:28:04 - 【退出回调程序】:
+
+2015-10-15 23:58:05 - 【进入回调程序】:
+
+2015-10-15 23:58:05 - 【签名验证成功】
+
+2015-10-15 23:58:05 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 23:58:05 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-15 23:58:05 - 90 Order Has bean Payed.
+
+2015-10-15 23:58:05 - 【退出回调程序】:
+
+2015-10-16 0:58:07 - 【进入回调程序】:
+
+2015-10-16 0:58:07 - 【签名验证成功】
+
+2015-10-16 0:58:07 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-16 0:58:07 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[1]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[vfwjyfrcckd203enh84o6opejcylxwzh]]></nonce_str>
+<openid><![CDATA[ok6S_s-uwS3PoymdNXXnfr_9yttY]]></openid>
+<out_trade_no><![CDATA[90]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[03B9FF0A82163834610D076917C094EB]]></sign>
+<time_end><![CDATA[20151015215347]]></time_end>
+<total_fee>1</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1002790342201510151210921387]]></transaction_id>
+</xml>
+
+2015-10-16 0:58:07 - 90 Order Has bean Payed.
+
+2015-10-16 0:58:07 - 【退出回调程序】:
+
+2015-10-27 10:34:51 - 【进入回调程序】:
+
+2015-10-27 10:34:51 - 【签名验证成功】
+
+2015-10-27 10:34:51 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 10:34:51 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 10:34:58 - 【退出回调程序】:
+
+2015-10-27 10:35:08 - 【进入回调程序】:
+
+2015-10-27 10:35:08 - 【签名验证成功】
+
+2015-10-27 10:35:08 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 10:35:08 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 10:35:08 - 97 Order Has bean Payed.
+
+2015-10-27 10:35:08 - 【退出回调程序】:
+
+2015-10-27 10:35:25 - 【进入回调程序】:
+
+2015-10-27 10:35:25 - 【签名验证成功】
+
+2015-10-27 10:35:25 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 10:35:25 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 10:35:25 - 97 Order Has bean Payed.
+
+2015-10-27 10:35:25 - 【退出回调程序】:
+
+2015-10-27 10:35:58 - 【进入回调程序】:
+
+2015-10-27 10:35:58 - 【签名验证成功】
+
+2015-10-27 10:35:58 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 10:35:58 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 10:35:58 - 97 Order Has bean Payed.
+
+2015-10-27 10:35:58 - 【退出回调程序】:
+
+2015-10-27 10:39:01 - 【进入回调程序】:
+
+2015-10-27 10:39:01 - 【签名验证成功】
+
+2015-10-27 10:39:01 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 10:39:01 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 10:39:01 - 97 Order Has bean Payed.
+
+2015-10-27 10:39:01 - 【退出回调程序】:
+
+2015-10-27 11:09:03 - 【进入回调程序】:
+
+2015-10-27 11:09:03 - 【签名验证成功】
+
+2015-10-27 11:09:03 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 11:09:03 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 11:09:03 - 97 Order Has bean Payed.
+
+2015-10-27 11:09:03 - 【退出回调程序】:
+
+2015-10-27 11:39:04 - 【进入回调程序】:
+
+2015-10-27 11:39:04 - 【签名验证成功】
+
+2015-10-27 11:39:04 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 11:39:04 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 11:39:04 - 97 Order Has bean Payed.
+
+2015-10-27 11:39:04 - 【退出回调程序】:
+
+2015-10-27 12:09:08 - 【进入回调程序】:
+
+2015-10-27 12:09:08 - 【签名验证成功】
+
+2015-10-27 12:09:08 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 12:09:08 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 12:09:08 - 97 Order Has bean Payed.
+
+2015-10-27 12:09:08 - 【退出回调程序】:
+
+2015-10-27 12:39:10 - 【进入回调程序】:
+
+2015-10-27 12:39:10 - 【签名验证成功】
+
+2015-10-27 12:39:10 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 12:39:10 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 12:39:10 - 97 Order Has bean Payed.
+
+2015-10-27 12:39:10 - 【退出回调程序】:
+
+2015-10-27 13:39:12 - 【进入回调程序】:
+
+2015-10-27 13:39:12 - 【签名验证成功】
+
+2015-10-27 13:39:12 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 13:39:12 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[8rtwlaed134wdmguz7ub8my7xnedmkfm]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[97]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E7FDD038B25D26A91CDA6487D34F070F]]></sign>
+<time_end><![CDATA[20151027103451]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201510271348646328]]></transaction_id>
+</xml>
+
+2015-10-27 13:39:12 - 97 Order Has bean Payed.
+
+2015-10-27 13:39:12 - 【退出回调程序】:
+
+2015-11-12 11:49:25 - 【进入回调程序】:
+
+2015-11-12 11:49:25 - 【签名验证成功】
+
+2015-11-12 11:49:25 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 11:49:25 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 11:49:42 - 【进入回调程序】:
+
+2015-11-12 11:49:42 - 【签名验证成功】
+
+2015-11-12 11:49:42 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 11:49:42 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 11:49:42 - 113 Order Has bean Payed.
+
+2015-11-12 11:49:42 - 【退出回调程序】:
+
+2015-11-12 11:49:59 - 【进入回调程序】:
+
+2015-11-12 11:49:59 - 【签名验证成功】
+
+2015-11-12 11:49:59 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 11:49:59 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 11:49:59 - 113 Order Has bean Payed.
+
+2015-11-12 11:49:59 - 【退出回调程序】:
+
+2015-11-12 11:50:31 - 【进入回调程序】:
+
+2015-11-12 11:50:31 - 【签名验证成功】
+
+2015-11-12 11:50:31 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 11:50:31 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 11:50:31 - 113 Order Has bean Payed.
+
+2015-11-12 11:50:31 - 【退出回调程序】:
+
+2015-11-12 11:53:37 - 【进入回调程序】:
+
+2015-11-12 11:53:37 - 【签名验证成功】
+
+2015-11-12 11:53:37 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 11:53:37 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 11:53:37 - 113 Order Has bean Payed.
+
+2015-11-12 11:53:37 - 【退出回调程序】:
+
+2015-11-12 12:23:41 - 【进入回调程序】:
+
+2015-11-12 12:23:41 - 【签名验证成功】
+
+2015-11-12 12:23:41 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 12:23:41 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 12:23:41 - 113 Order Has bean Payed.
+
+2015-11-12 12:23:41 - 【退出回调程序】:
+
+2015-11-12 12:53:43 - 【进入回调程序】:
+
+2015-11-12 12:53:43 - 【签名验证成功】
+
+2015-11-12 12:53:43 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 12:53:43 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 12:53:43 - 113 Order Has bean Payed.
+
+2015-11-12 12:53:43 - 【退出回调程序】:
+
+2015-11-12 13:23:44 - 【进入回调程序】:
+
+2015-11-12 13:23:44 - 【签名验证成功】
+
+2015-11-12 13:23:44 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 13:23:44 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 13:23:44 - 113 Order Has bean Payed.
+
+2015-11-12 13:23:44 - 【退出回调程序】:
+
+2015-11-12 13:53:46 - 【进入回调程序】:
+
+2015-11-12 13:53:46 - 【签名验证成功】
+
+2015-11-12 13:53:46 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 13:53:46 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 13:53:46 - 113 Order Has bean Payed.
+
+2015-11-12 13:53:46 - 【退出回调程序】:
+
+2015-11-12 14:53:48 - 【进入回调程序】:
+
+2015-11-12 14:53:48 - 【签名验证成功】
+
+2015-11-12 14:53:48 - 【接收到的notify通知】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 14:53:48 - 【支付成功】:
+<xml><appid><![CDATA[wx99610dc3355e3524]]></appid>
+<bank_type><![CDATA[CFT]]></bank_type>
+<cash_fee><![CDATA[2]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1263523401]]></mch_id>
+<nonce_str><![CDATA[a99cc4jb5phc4y7f0ck66f4acx6u75x8]]></nonce_str>
+<openid><![CDATA[ok6S_szTaJ0dybtYPcOouUHYmBvk]]></openid>
+<out_trade_no><![CDATA[113]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[932B10602F423D8D4C4151955AE1777B]]></sign>
+<time_end><![CDATA[20151112114925]]></time_end>
+<total_fee>2</total_fee>
+<trade_type><![CDATA[NATIVE]]></trade_type>
+<transaction_id><![CDATA[1006800342201511121566351368]]></transaction_id>
+</xml>
+
+2015-11-12 14:53:48 - 113 Order Has bean Payed.
+
+2015-11-12 14:53:48 - 【退出回调程序】:
+

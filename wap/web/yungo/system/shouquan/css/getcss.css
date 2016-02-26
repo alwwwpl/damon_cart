@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>DianFengYunGouCMS商业授权认证中心</title>
+<link href="getcss.css" rel="stylesheet" type="text/css">
+<style>
+*{color:#3a5260;font-size:14px;}
+body{background:#fff;padding-top:100px;font-family: microsoft yahei}
+.bg{background:url("../images/shouquan.jpg") no-repeat;width:815px;height:479px;margin: 0 auto;}
+.zsbh,.type,.web,.time{padding-left: 355px;}
+.zsbh{padding-top: 156px}
+.type,.web,.time{padding-top: 15px;}
+.link{padding-top: 139px;font-size: 12px;padding-left: 394px;}
+.yun a{display: block;width: 72px;height: 17px;float: right;margin-right: 29px;}
+.main {margin: 0 auto; width: 400px;padding: 30px 10px;background: #fff;border: 1px solid #e4e4e4;box-shadow: 0 0 5px #ECECEC;}
+.main input[type="text"] {border: 1px solid #00B0E7;height: 40px;width: 300px;line-height: 30px;padding: 0 5px;margin-bottom: 20px;-webkit-transition: color.5s;font-family: microsoft yahei;}
+.main input[type="submit"] {font-family: microsoft yahei;height: 42px;width: 312px;margin: 0;background: #ff6633;border: 1px solid #ff6633;color: #ffffff;padding: 0 15px;cursor: pointer;}
+h1 {text-align: center;font-size: 20px;margin-bottom: 20px;}
+form#checkurl {width: 400px;margin: 0 auto;text-align: center;}
+</style>
+</head>
+
+<body>
+<div class="bg">
+<div class="zsbh"> </div>
+
+<div class="web"> </div>
+<!--div class="time">2015-10-15 09:38:41 至 
+2015-10-15 09:38:41</div--><p></p><br/><div class="type"> 应急维护技术支持：400-626-0754    QQ:320023815</div><br/><br/>
+<div class="link">请确认此页面是以<!--?php echo $info['domain']; ?-->http://www.81668.net/开头</div>
+<div class="yun"><a href="http://www.81668.net/"></a></div>
+</div>
+	
+
+<div id="MicrosoftTranslatorWidget" style="width: 0px; min-height: 83px; border-color: #3A5770; background-color: #78ADD0; display:none;"></div></body></html>

@@ -1,0 +1,27 @@
+<modification>
+	<name><![CDATA[<font color="#0000"><b>Add Product Discount</font>]]></name>
+    <version><![CDATA[<b>1.0</b>]]></version>
+    <author><![CDATA[<font color="#CC0000"><b>Bossthemes</font>]]></author>
+    <link><![CDATA[www.bossthemes.com]]></link>
+	<code>discount</code>
+	<file path="catalog/controller/product/product.php">
+		<operation>
+			<search><![CDATA[
+			$this->model_catalog_product->updateViewed($this->request->get['product_id']);
+			]]></search>
+			<add position="after"><![CDATA[
+			$data['discountProduct'] = $this->load->controller('module/best_discount/discountProduct');
+			]]></add>
+		</operation>
+	</file>
+	<file path="catalog/view/theme/*/template/product/product.tpl">
+		<operation>
+			<search index="1"><![CDATA[
+				<?php if ($options) { ?>
+			]]></search>
+			<add position="before"><![CDATA[ 
+				<?php echo $discountProduct; ?>
+			]]></add>
+		</operation>
+	</file>
+</modification>
